@@ -32,6 +32,7 @@ About us
   <div class="description">
     <h3>Karna Gowda, PhD</h3>
     Principal Investigator<br>
+    gowda.51[at]osu.edu
     BS, University of Illinois at Urbana-Champaign<br>
     PhD, Northwestern University<br>
     Postdoc, University of Chicago
@@ -42,6 +43,7 @@ About us
   <img src="/assets/img/asteinert.jpg" alt="Anja Steinert">
   <div class="description">
     <h3>Anja Steinert</h3>
+    steinert.5[at]osu.edu
     Lab Manager<br>
     BS, The Ohio State University
   </div>
@@ -68,8 +70,6 @@ About us
 Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 
 ## Publications
-
-[Google Scholar](https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en)
 
 ### 2024
 
@@ -105,6 +105,6 @@ Gowda, K., & Kuehn, C. (2015). Early-warning signs for pattern-formation in stoc
 
 Gowda, K., Riecke, H., & Silber, M. (2014). Transitions between patterned states in vegetation models for semiarid ecosystems. *Physical Review E*, 89(2), 1–8. doi:[10.1103/PhysRevE.89.022701](https://doi.org/10.1103/PhysRevE.89.022701)
 
-## Contact
+## Social
 
 
