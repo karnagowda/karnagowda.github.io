@@ -37,6 +37,19 @@ About us
   </div>
 </div>
 
+<div class="photo-container">
+  <div class="photo-info">
+    <img src="/assets/img/kgowda.jpg" alt="Karna Gowda, PhD">
+    <h3>Karna Gowda, PhD</h3>
+  </div>
+  <div class="description">
+    <p>PI</p>
+    <p>BS, University of Illinois at Urbana-Champaign</p>
+    <p>PhD, Northwestern University</p>
+    <p>Postdoc, University of Chicago</p>
+  </div>
+</div>
+
 
 
 ## Publications
