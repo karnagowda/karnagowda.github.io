@@ -32,7 +32,9 @@ About us
   <div class="description">
     <h3>Karna Gowda, PhD</h3>
     Principal Investigator<br>
-    gowda.51[at]osu.edu<br>
+    <script>
+      document.write('<a href="mailto:' + 'gowda.51@osu.edu'.replace('example', 'example') + '">Contact</a>');
+    </script><br>
     BS, University of Illinois at Urbana-Champaign<br>
     PhD, Northwestern University<br>
     Postdoc, University of Chicago
@@ -43,7 +45,6 @@ About us
   <img src="/assets/img/asteinert.jpg" alt="Anja Steinert">
   <div class="description">
     <h3>Anja Steinert</h3>
-    steinert.5[at]osu.edu<br>
     Lab Manager<br>
     BS, The Ohio State University
   </div>
