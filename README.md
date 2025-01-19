@@ -6,6 +6,8 @@ About us
 
 ## People
 
+![blah](/assets/img/kgowda.jpg)
+
 ## Publications
 
 ### 2024
