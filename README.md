@@ -2,16 +2,6 @@
 
 We are an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) at the Ohio State University who use experiments, computation, and theory to understand the ecology and evolution of microbes that populate Earth's natural environments.
 
-<a href="[GoogleScholar](https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en)">
-  <img src="/assets/img/google_scholar.svg" alt="Icon" width="30" height="30"/>
-</a>
-<a href="[BlueSky](https://bsky.app/profile/karnagowda.bsky.social)">
-  <img src="/assets/img/bluesky.svg" alt="Icon" width="30" height="30"/>
-</a>
-<a href="[X](https://x.com/KarnaVGowda)">
-  <img src="/assets/img/x.svg" alt="Icon" width="30" height="30"/>
-</a>
-
 ## News {#news}
 - **January 2025:** We welcome Bryce Guidry and Anja Steinert to the lab! Bryce joins as a PhD student through the [Biophysics Graduate Program](https://biophysics.osu.edu/) and Anja will be taking over as lab manager.
 - **November 2024:** Summer REU student Aouss Azzouz [won a poster award for presenting his work in the Gowda Lab at ABRCMS](https://abrcms.org/wp-content/uploads/2024/11/ABRCMS-2024-Awardee-List.pdf)! Congrats Aouss!
