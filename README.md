@@ -31,7 +31,7 @@ About us
   <div class="description">
     <h3>Karna Gowda, PhD</h3>
     Principal Investigator<br>
-    BS, University of Illinois at Urbana-Champaign<<br>
+    BS, University of Illinois at Urbana-Champaign<br>
     PhD, Northwestern University<br>
     Postdoc, University of Chicago
   </div>
