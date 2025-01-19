@@ -9,7 +9,7 @@ About us
 <style>
   .photo-container {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     margin-bottom: 20px;
   }
   .photo-container img {
