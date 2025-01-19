@@ -17,14 +17,18 @@ About us
     height: auto; /* Maintain aspect ratio */
     margin-right: 15px;
   }
+  .photo-container .photo-info {
+    text-align: center;
+    margin-bottom: 10px; /* Add spacing under the title */
+  }
   .photo-container .description {
     max-width: 600px; /* Limit description width */
   }
 </style>
 
 <div class="photo-container">
-  <img src="/assets/img/kgowda.jpg" alt="Karna Gowda">
-  <h3>Title for Photo 1</h3>
+  <img src="/assets/img/kgowda.jpg" alt="Karna Gowda, PhD">
+  <h3>Karna Gowda, PhD</h3>
   <div class="description">
     <p>PI</p>
     <p>BS, University of Illinois at Urbana-Champaign</p>
