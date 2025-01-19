@@ -24,8 +24,8 @@ About us
 
 <div class="photo-container">
   <img src="/assets/img/kgowda.jpg" alt="Karna Gowda">
+  <h3>Title for Photo 1</h3>
   <div class="description">
-    <h3>Karna Gowda, PhD</h3>
     <p>PI</p>
     <p>BS, University of Illinois at Urbana-Champaign</p>
     <p>PhD, Northwestern University</p>
