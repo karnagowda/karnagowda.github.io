@@ -1,4 +1,4 @@
-<header class="site-header" style="position: fixed; top: 0; width: 100%; background-color: white; z-index: 1000; padding-top: 80px; margin-top: -80px;">
+<header class="site-header" style="position: fixed; top: 0; width: 100%; background-color: white; z-index: 1000;">
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -13,3 +13,9 @@
     </nav>
   </div>
 </header>
+
+<style>
+  html {
+    scroll-padding-top: 80px; /* Adjust this value to match the height of your header */
+  }
+</style>
