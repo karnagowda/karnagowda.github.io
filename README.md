@@ -33,7 +33,9 @@ About us
     <h3>Karna Gowda, PhD</h3>
     Principal Investigator<br>
     <script>
-      document.write('<a href="mailto:' + 'gowda.51@osu.edu'.replace('example', 'example') + '">Contact</a>');
+      const username = 'gowda.51';
+      const domain = 'osu.edu';
+      document.write('<a href="mailto:' + username + '@' + domain + '">' + username + '@' + domain + '</a>');
     </script><br>
     BS, University of Illinois at Urbana-Champaign<br>
     PhD, Northwestern University<br>
