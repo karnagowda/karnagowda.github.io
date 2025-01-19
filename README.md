@@ -69,6 +69,8 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 
 ## Publications
 
+[Google Scholar](https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en)
+
 ### 2024
 
 Crocker, K., Lee, K. K., Chakraverti-Wuerthwein, M., Li, Z., Tikhonov, M., Mani, M., Gowda, K., & Kuehn, S. (2024). Environmentally dependent interactions shape patterns in gene content across natural microbiomes. *Nature Microbiology*, 9(8), 2022–2037. doi:[10.1038/s41564-024-01752-4](https://doi.org/10.1038/s41564-024-01752-4)
