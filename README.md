@@ -34,7 +34,7 @@ We are an interdisciplinary team of researchers in the [Department of Microbiolo
   <div class="description">
     <h3>Karna Gowda, PhD</h3>
     Principal Investigator<br>
-    Department of Microbiology
+    Department of Microbiology<br>
     <script>
       const username = 'gowda.51';
       const domain = 'osu.edu';
