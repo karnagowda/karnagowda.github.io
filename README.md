@@ -4,7 +4,7 @@ We are an interdisciplinary team of researchers in the [Department of Microbiolo
 
 <a href="https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en">
   <svg class="svg-icon">
-    <use xlink:href="/assets/social-icons/icons8-google-scholar.svg"></use>
+    <use xlink:href="/assets/img/google_scholar.svg"></use>
   </svg>
 </a>
 
