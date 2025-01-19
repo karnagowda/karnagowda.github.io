@@ -1,6 +1,6 @@
-<div style="padding-top: 50px;"></div>
+<div style="padding-top: 60px;"></div>
 
-About us
+We are an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) at the Ohio State University who do experiments, computation, and theory to understand the ecology and evolution of the microbes that inhabit Earth's natural environments.
 
 ## News {#news}
 - **January 2025:** We welcome Bryce Guidry and Anja Steinert to the lab! Bryce joins as a PhD student through the [Biophysics Graduate Program](https://biophysics.osu.edu/) and Anja will be taking over as lab manager.
