@@ -1,6 +1,4 @@
-
-
-
+<div style="padding-top: 80px;"></div>
 
 About us
 
