@@ -23,7 +23,7 @@ About us
 </style>
 
 <div class="photo-container">
-  <img src="/assets/img/kgowda.jp" alt="Karna Gowda">
+  <img src="/assets/img/kgowda.jpg" alt="Karna Gowda">
   <div class="description">
     <h3>Title for Photo 1</h3>
     <p>Description for photo 1. You can include more details here about the image.</p>
