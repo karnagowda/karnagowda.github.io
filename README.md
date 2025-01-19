@@ -44,7 +44,7 @@ About us
 </div>
 
 <div class="photo-container">
-  <img src="/assets/img/asteinert.jpg" alt="Anja Steinert">
+  <img src="/assets/img/nullavatar.jpg" alt="Anja Steinert">
   <div class="description">
     <h3>Anja Steinert</h3>
     Lab Manager<br>
@@ -62,7 +62,7 @@ About us
 </div>
 
 <div class="photo-container">
-  <img src="/assets/img/measton.jpg" alt="Molly Easton">
+  <img src="/assets/img/nullavatar.jpg" alt="Molly Easton">
   <div class="description">
     <h3>Molly Easton</h3>
     Undergraduate Researcher
