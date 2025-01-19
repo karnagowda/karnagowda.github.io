@@ -13,13 +13,9 @@ About us
     margin-bottom: 20px;
   }
   .photo-container img {
-    width: 200px; /* Adjust to your desired width */
+    width: 150px; /* Adjust to your desired width */
     height: auto; /* Maintain aspect ratio */
     margin-right: 15px;
-  }
-  .photo-container .photo-info {
-    text-align: left;
-    margin-bottom: 0px; /* Add spacing under the title */
   }
   .photo-container .description {
     max-width: 600px; /* Limit description width */
@@ -27,11 +23,9 @@ About us
 </style>
 
 <div class="photo-container">
-  <div class="photo-info">
-    <img src="/assets/img/kgowda.jpg" alt="Karna Gowda, PhD">
-    <h3>Karna Gowda, PhD</h3>
-  </div>
+  <img src="/assets/img/kgowda.jpg" alt="Karna Gowda, PhD">
   <div class="description">
+    <h3>Karna Gowda, PhD</h3>
     <p>Principal Investigator</p>
     <p>BS, University of Illinois at Urbana-Champaign</p>
     <p>PhD, Northwestern University</p>
