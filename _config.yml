@@ -2,10 +2,11 @@ title: Gowda Lab
 theme: minima
 
 # Add social links here
-social:
-  - name: "google-scholar"
-    url: "https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en"
-  - name: "bluesky"
-    url: "https://bsky.app/profile/karnagowda.bsky.social"
-  - name: "x"
-    url: "https://x.com/KarnaVGowda"
+minima:
+  social_links:
+    - name: "google-scholar"
+      url: "https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en"
+    - name: "bluesky"
+      url: "https://bsky.app/profile/karnagowda.bsky.social"
+    - name: "x"
+      url: "https://x.com/KarnaVGowda"
