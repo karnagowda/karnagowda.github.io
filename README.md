@@ -6,10 +6,30 @@ About us
 
 ## People
 
-| :--- | :---     |
-| ![Karna Gowda](/assets/img/kgowda.jpg)  | Karna Gowda |
-| February | $80     |
-| March    | $420    |
+<style>
+  .photo-container {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+  }
+  .photo-container img {
+    width: 150px; /* Adjust to your desired width */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 15px;
+  }
+  .photo-container .description {
+    max-width: 600px; /* Limit description width */
+  }
+</style>
+
+<div class="photo-container">
+  <img src="/assets/img/kgowda.jp" alt="Karna Gowda">
+  <div class="description">
+    <h3>Title for Photo 1</h3>
+    <p>Description for photo 1. You can include more details here about the image.</p>
+  </div>
+</div>
+
 
 
 ## Publications
