@@ -71,7 +71,8 @@ About us
   </div>
 </div>
 
-
+### Alumni
+Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 
 ## Publications
 
