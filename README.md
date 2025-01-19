@@ -34,34 +34,28 @@ About us
 </div>
 
 <div class="photo-container">
-  <div class="photo-info">
-    <img src="/assets/img/asteinert.jpg" alt="Anja Steinert">
+  <img src="/assets/img/asteinert.jpg" alt="Anja Steinert">
+  <div class="description">
     <h3>Anja Steinert</h3>
-  </div>
-  <div class="description">
-    <p>Lab Manager</p>
-    <p>BS, The Ohio State University</p>
+    Lab Manager<br>
+    BS, The Ohio State University
   </div>
 </div>
 
 <div class="photo-container">
-  <div class="photo-info">
-    <img src="/assets/img/bguidry.jpg" alt="Bryce Guidry">
+  <img src="/assets/img/bguidry.jpg" alt="Bryce Guidry">
+  <div class="description">
     <h3>Bryce Guidry</h3>
-  </div>
-  <div class="description">
-    <p>PhD Student, Biophysics</p>
-    <p>BS, Emory University</p>
+    PhD Student, Biophysics<br>
+    BS, Emory University<br>
   </div>
 </div>
 
 <div class="photo-container">
-  <div class="photo-info">
-    <img src="/assets/img/measton.jpg" alt="Molly Easton">
-    <h3>Molly Easton</h3>
-  </div>
+  <img src="/assets/img/measton.jpg" alt="Molly Easton">
   <div class="description">
-    <p>Undergraduate Researcher</p>
+    <h3>Molly Easton</h3>
+    Undergraduate Researcher
   </div>
 </div>
 
