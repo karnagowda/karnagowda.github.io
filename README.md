@@ -18,7 +18,7 @@ About us
     margin-right: 15px;
   }
   .photo-container .photo-info {
-    text-align: center;
+    text-align: left;
     margin-bottom: 0px; /* Add spacing under the title */
   }
   .photo-container .description {
