@@ -1,24 +1,24 @@
 About us
 
-### News
+## News
 
-### Research
+## Research
 
-### People
+## People
 
-### Publications
+## Publications
 
-#### 2024
+### 2024
 
 Crocker, K., Lee, K. K., Chakraverti-Wuerthwein, M., Li, Z., Tikhonov, M., Mani, M., Gowda, K., & Kuehn, S. (2024). Environmentally dependent interactions shape patterns in gene content across natural microbiomes. *Nature Microbiology*, 9(8), 2022–2037. https://doi.org/10.1038/s41564-024-01752-4
 
-#### 2023
+### 2023
 
 Skwara, A., Gowda, K., Yousef, M., Diaz-Colunga, J., Raman, A. S., Sanchez, A., Tikhonov, M., & Kuehn, S. (2023). Statistically learning the functional landscape of microbial communities. *Nature Ecology & Evolution*, 7(11), 1823–1833. https://doi.org/10.1038/s41559-023-02197-4
 
 Diaz-Colunga, J., Skwara, A., Gowda, K., Diaz-Uriarte, R., Tikhonov, M., Bajic, D., & Sanchez, A. (2023). Global epistasis on fitness landscapes. *Philosophical Transactions of the Royal Society B*, 378(1877), 1–20. https://doi.org/10.1098/rstb.2022.0053
 
-#### 2022
+### 2022
 
 Gowda, K., & Kuehn, S. (2022). Microbial biofilms: An ecological tale of Jekyll and Hyde. *Current Biology*, 32(24), R1349–R1351. https://doi.org/10.1016/j.cub.2022.10.068
 
@@ -26,11 +26,11 @@ Gowda, K., Ping, D., Mani, M., & Kuehn, S. (2022). Genomic structure predicts me
 
 Gopalakrishnappa, C., Gowda, K., Prabhakara, K. H., & Kuehn, S. (2022). An ensemble approach to the structure-function problem in microbial communities. *iScience*, 25(2), 103761. https://doi.org/10.1016/j.isci.2022.103761
 
-#### 2020
+### 2020
 
 Fraebel, D. T., Gowda, K., Mani, M., & Kuehn, S. (2020). Evolution of Generalists by Phenotypic Plasticity. *iScience*, 23(11), 1–22. https://doi.org/10.1016/j.isci.2020.101678
 
-#### PhD
+### PhD
 
 Gandhi, P., Werner, L., Iams, S., Gowda, K., & Silber, M. (2018). A topographic mechanism for arcing of dryland vegetation bands. *Journal of the Royal Society Interface*, 15(147). https://doi.org/10.1098/rsif.2018.0508
 
@@ -42,4 +42,6 @@ Gowda, K., & Kuehn, C. (2015). Early-warning signs for pattern-formation in stoc
 
 Gowda, K., Riecke, H., & Silber, M. (2014). Transitions between patterned states in vegetation models for semiarid ecosystems. *Physical Review E*, 89(2), 1–8. https://doi.org/10.1103/PhysRevE.89.022701
 
-### Contact
+## Contact
+
+
