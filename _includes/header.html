@@ -1,5 +1,4 @@
-<header class="site-header">
-
+<header class="site-header" style="position: fixed; top: 0; width: 100%; background-color: white; z-index: 1000;">
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -11,7 +10,6 @@
       <a href="#research">research</a> | 
       <a href="#people">people</a> | 
       <a href="#pubs">publications</a> | 
-      <a href="#social">social</a>
     </nav>
   </div>
 </header>
