@@ -13,7 +13,7 @@ About us
     margin-bottom: 20px;
   }
   .photo-container img {
-    width: 150px; /* Adjust to your desired width */
+    width: 200px; /* Adjust to your desired width */
     height: auto; /* Maintain aspect ratio */
     margin-right: 15px;
   }
@@ -26,10 +26,10 @@ About us
   <img src="/assets/img/kgowda.jpg" alt="Karna Gowda, PhD">
   <div class="description">
     <h3>Karna Gowda, PhD</h3>
-    <p>Principal Investigator</p>
-    <p>BS, University of Illinois at Urbana-Champaign</p>
-    <p>PhD, Northwestern University</p>
-    <p>Postdoc, University of Chicago</p>
+    Principal Investigator<br>
+    BS, University of Illinois at Urbana-Champaign<<br>
+    PhD, Northwestern University<br>
+    Postdoc, University of Chicago
   </div>
 </div>
 
