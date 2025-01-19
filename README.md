@@ -1,8 +1,8 @@
-<div style="padding-top: 60px;"></div>
+<div style="padding-top: 55px;"></div>
 
-We are an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) at the Ohio State University who do experiments, computation, and theory to understand the ecology and evolution of the microbes that inhabit Earth's natural environments.
+{#home}We are an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) at the Ohio State University who use experiments, computation, and theory to understand the ecology and evolution of  microbes that populate Earth's natural environments.
 
-## News {#news}
+## News 
 - **January 2025:** We welcome Bryce Guidry and Anja Steinert to the lab! Bryce joins as a PhD student through the [Biophysics Graduate Program](https://biophysics.osu.edu/) and Anja will be taking over as lab manager.
 - **November 2024:** Summer REU student Aouss Azzouz [won a poster award for presenting his work in the Gowda Lab at ABRCMS](https://abrcms.org/wp-content/uploads/2024/11/ABRCMS-2024-Awardee-List.pdf)! Congrats Aouss!
 - **July 2024:** Our paper on how interactions shape denitrifying communities in the soil microbiome is now out in [Nature Microbiology](https://doi.org/10.1038/s41564-024-01752-4).
@@ -109,7 +109,3 @@ Gowda, K., Chen, Y., Iams, S., & Silber, M. (2016). Assessing the robustness of 
 Gowda, K., & Kuehn, C. (2015). Early-warning signs for pattern-formation in stochastic partial differential equations. *Communications in Nonlinear Science and Numerical Simulation*, 22(1–3), 55–69. doi: [10.1016/j.cnsns.2014.09.019](https://doi.org/10.1016/j.cnsns.2014.09.019)
 
 Gowda, K., Riecke, H., & Silber, M. (2014). Transitions between patterned states in vegetation models for semiarid ecosystems. *Physical Review E*, 89(2), 1–8. doi: [10.1103/PhysRevE.89.022701](https://doi.org/10.1103/PhysRevE.89.022701)
-
-## Social {#social}
-
-
