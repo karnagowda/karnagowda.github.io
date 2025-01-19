@@ -2,8 +2,14 @@
 
 We are an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) at the Ohio State University who use experiments, computation, and theory to understand the ecology and evolution of microbes that populate Earth's natural environments.
 
-<a href="[https://example.com](https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en)">
-  <img src="/assets/img/google_scholar.svg" alt="Icon" width="40" height="40"/>
+<a href="[GoogleScholar](https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en)">
+  <img src="/assets/img/google_scholar.svg" alt="Icon" width="30" height="30"/>
+</a>
+<a href="[BlueSky](https://bsky.app/profile/karnagowda.bsky.social)">
+  <img src="/assets/img/bluesky.svg" alt="Icon" width="30" height="30"/>
+</a>
+<a href="[X](https://x.com/KarnaVGowda)">
+  <img src="/assets/img/x.svg" alt="Icon" width="30" height="30"/>
 </a>
 
 ## News {#news}
