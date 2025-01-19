@@ -8,14 +8,5 @@
 
 /* Add smooth scrolling for anchor links */
 html {
-	scroll-behavior: smooth;
-}
-
-/* Make the header sticky */
-header {
-  position: sticky;
-  top: 0;
-  z-index: 1000; /* Ensures it stays above other content */
-  background-color: white; /* Match your site's background color */
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow */
+   scroll-behavior: smooth;
 }
