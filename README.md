@@ -1,4 +1,4 @@
-<div style="padding-top: 80px;"></div>
+<div style="padding-top: 40px;"></div>
 
 About us
 
