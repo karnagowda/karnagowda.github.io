@@ -1,7 +1,6 @@
 title: Gowda Lab
 theme: minima
 
-# Add social links here
 minima:
   social_links:
     - name: "google-scholar"
