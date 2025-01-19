@@ -1,7 +1,7 @@
 About us
 
 ## News
-- **January 2025:** We welcome Bryce Guidry and Anja Steinert to the lab! Bryce joins a PhD student through the [Biophysics Graduate Program](https://biophysics.osu.edu/) and Anja joins as our lab manager.
+- **January 2025:** We welcome Bryce Guidry and Anja Steinert to the lab! Bryce joins as a PhD student through the [Biophysics Graduate Program](https://biophysics.osu.edu/) and Anja will be taking over as lab manager.
 - **November 2024:** Summer REU student Aouss Azzouz [won a poster award for presenting his work in the Gowda Lab at ABRCMS](https://abrcms.org/wp-content/uploads/2024/11/ABRCMS-2024-Awardee-List.pdf)! Congrats Aouss!
 - **July 2024:** Our paper on how interactions shape denitrifying communities in the soil microbiome is now out in [Nature Microbiology](https://doi.org/10.1038/s41564-024-01752-4).
 - **January 2024:** The Gowda Lab opens its doors in the Department of Microbiology at the Ohio State University.
