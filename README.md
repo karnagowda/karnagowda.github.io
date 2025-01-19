@@ -3,13 +3,13 @@
 We are an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) at the Ohio State University who use experiments, computation, and theory to understand the ecology and evolution of microbes that populate Earth's natural environments.
 
 <a href="https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en">
-  <img src="{{ '/assets/social-icons/google_scholar.svg' | relative_url }}" alt="Google Scholar">
+  <img src="/assets/social-icons/google_scholar.svg" alt="Google Scholar">
 </a>
 <a href="https://bsky.app/profile/your-profile-id">
-  <img src="{{ '/assets/social-icons/bluesky.svg' | relative_url }}" alt="BlueSky">
+  <img src="/assets/social-icons/bluesky.svg" alt="BlueSky">
 </a>
 <a href="https://x.com/your-profile-id">
-  <img src="{{ '/assets/social-icons/x.svg' | relative_url }}" alt="X">
+  <img src="/assets/social-icons/x.svg" alt="X">
 </a>
 
 ## News {#news}
