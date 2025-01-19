@@ -2,10 +2,8 @@
 
 We are an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) at the Ohio State University who use experiments, computation, and theory to understand the ecology and evolution of microbes that populate Earth's natural environments.
 
-<a href="https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en">
-  <svg class="svg-icon">
-    <use xlink:href="/assets/img/google_scholar.svg"></use>
-  </svg>
+<a href="[https://example.com](https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en)">
+  <img src="/assets/img/google_scholar.svg" alt="Icon" width="40" height="40"/>
 </a>
 
 ## News {#news}
@@ -40,7 +38,6 @@ We are an interdisciplinary team of researchers in the [Department of Microbiolo
   <div class="description">
     <h3>Karna Gowda, PhD</h3>
     Principal Investigator<br>
-    Department of Microbiology<br>
     <script>
       const username = 'gowda.51';
       const domain = 'osu.edu';
