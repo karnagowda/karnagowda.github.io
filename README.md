@@ -6,7 +6,11 @@ About us
 
 ## People
 
-![blah](/assets/img/kgowda.jpg)
+| :--- | :---     |
+| ![Karna Gowda](/assets/img/kgowda.jpg)  | Karna Gowda |
+| February | $80     |
+| March    | $420    |
+
 
 ## Publications
 
