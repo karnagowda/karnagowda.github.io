@@ -13,13 +13,13 @@ About us
     margin-bottom: 20px;
   }
   .photo-container img {
-    width: 150px; /* Adjust to your desired width */
+    width: 200px; /* Adjust to your desired width */
     height: auto; /* Maintain aspect ratio */
     margin-right: 15px;
   }
   .photo-container .photo-info {
     text-align: center;
-    margin-bottom: 10px; /* Add spacing under the title */
+    margin-bottom: 0px; /* Add spacing under the title */
   }
   .photo-container .description {
     max-width: 600px; /* Limit description width */
@@ -27,10 +27,12 @@ About us
 </style>
 
 <div class="photo-container">
-  <img src="/assets/img/kgowda.jpg" alt="Karna Gowda, PhD">
-  <h3>Karna Gowda, PhD</h3>
+  <div class="photo-info">
+    <img src="/assets/img/kgowda.jpg" alt="Karna Gowda, PhD">
+    <h3>Karna Gowda, PhD</h3>
+  </div>
   <div class="description">
-    <p>PI</p>
+    <p>Principal Investigator</p>
     <p>BS, University of Illinois at Urbana-Champaign</p>
     <p>PhD, Northwestern University</p>
     <p>Postdoc, University of Chicago</p>
@@ -39,14 +41,33 @@ About us
 
 <div class="photo-container">
   <div class="photo-info">
-    <img src="/assets/img/kgowda.jpg" alt="Karna Gowda, PhD">
-    <h3>Karna Gowda, PhD</h3>
+    <img src="/assets/img/asteinert.jpg" alt="Anja Steinert">
+    <h3>Anja Steinert</h3>
   </div>
   <div class="description">
-    <p>PI</p>
-    <p>BS, University of Illinois at Urbana-Champaign</p>
-    <p>PhD, Northwestern University</p>
-    <p>Postdoc, University of Chicago</p>
+    <p>Lab Manager</p>
+    <p>BS, The Ohio State University</p>
+  </div>
+</div>
+
+<div class="photo-container">
+  <div class="photo-info">
+    <img src="/assets/img/bguidry.jpg" alt="Bryce Guidry">
+    <h3>Bryce Guidry</h3>
+  </div>
+  <div class="description">
+    <p>PhD Student, Biophysics</p>
+    <p>BS, Emory University</p>
+  </div>
+</div>
+
+<div class="photo-container">
+  <div class="photo-info">
+    <img src="/assets/img/measton.jpg" alt="Molly Easton">
+    <h3>Molly Easton</h3>
+  </div>
+  <div class="description">
+    <p>Undergraduate Researcher</p>
   </div>
 </div>
 
