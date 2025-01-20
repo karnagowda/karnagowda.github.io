@@ -98,7 +98,7 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
   </div>
 </div>
 
-<div class="photo-container-right">
+<div class="photo-container">
   <img src="/assets/img/nullavatar.jpg" alt="Anja Steinert">
   <div class="description">
     <h3>Anja Steinert</h3>
@@ -116,7 +116,7 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
   </div>
 </div>
 
-<div class="photo-container-right">
+<div class="photo-container">
   <img src="/assets/img/nullavatar.jpg" alt="Molly Easton">
   <div class="description">
     <h3>Molly Easton</h3>
@@ -141,12 +141,19 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 <div class="photo-container-right">
   <img src="/assets/img/crocker_fig.svg" alt="">
   <div class="description">
-    <a href="https://doi.org/10.1038/s41559-023-02197-4">Statistically learning the functional landscape of microbial communities, <em>Nature Ecology & Evolution</em> (2023).</a> Sequencing surveys reveal widespread correlations between microbes, their genes, and local conditions. However, the processes driving these patterns remain unclear, often leading to oversimplified explanations of environmental filtering for specific taxa or functions. In this paper, we show that microbiome gene content is shaped by microbial physiology and interactions, not just environmental factors. Using a statistical approach to analyze global topsoil microbiome data, we uncovered a novel link between denitrification reductase gene abundances and soil pH. Lab experiments and isolate characterizations confirmed that low pH stress promotes toxin-antitoxin codependency between strains. <a href="https://doi.org/10.1038/s41559-023-02214-6"><em>News & Views by Daniel Amor.</em></a>
+    <a href="https://doi.org/10.1038/s41559-023-02197-4">Statistically learning the functional landscape of microbial communities, <em>Nature Ecology & Evolution</em> (2023).</a> Sequencing surveys reveal widespread correlations between microbes, their genes, and local conditions. However, the processes driving these patterns remain unclear, often leading to oversimplified explanations of environmental filtering for specific taxa or functions. In this paper, we show that microbiome gene content is shaped by microbial physiology and interactions, not just environmental factors. Using a statistical approach to analyze global topsoil microbiome data, we uncovered a novel link between denitrification reductase gene abundances and soil pH. Lab experiments and isolate characterizations confirmed that low pH stress promotes toxin-antitoxin codependency between strains. <br>
+    <a href="https://doi.org/10.1038/s41559-023-02214-6"><em>News & Views by Daniel Amor.</em></a>
   </div>
 </div>
 
-[Genomic structure predicts metabolite dynamics in microbial communities, *Cell* (2022)](https://doi.org/10.1016/j.cell.2021.12.036)
-[*Dispatch by Avi Flamholz and Dianne Newman.*](https://doi.org/10.1016/j.cub.2022.02.002)
+<div class="photo-container">
+  <img src="/assets/img/crocker_fig.svg" alt="">
+  <div class="description">
+    <a href="https://doi.org/10.1016/j.cell.2021.12.036">Genomic structure predicts metabolite dynamics in microbial communities, <em>Cell</em> (2022).</a> Sequencing surveys reveal widespread correlations between microbes, their genes, and local conditions. However, the processes driving these patterns remain unclear, often leading to oversimplified explanations of environmental filtering for specific taxa or functions. In this paper, we show that microbiome gene content is shaped by microbial physiology and interactions, not just environmental factors. Using a statistical approach to analyze global topsoil microbiome data, we uncovered a novel link between denitrification reductase gene abundances and soil pH. Lab experiments and isolate characterizations confirmed that low pH stress promotes toxin-antitoxin codependency between strains.<br>
+<a href="https://doi.org/10.1016/j.cub.2022.02.002"><em>Dispatch by Avi Flamholz and Dianne Newman.</em></a> 
+  </div>
+</div>
+
 
 ### 2024
 
