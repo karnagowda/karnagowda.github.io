@@ -21,15 +21,44 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
     align-items: center;
     margin-bottom: 20px;
   }
+
   .photo-container img {
     width: 225px; /* Adjust to your desired width */
     height: auto; /* Maintain aspect ratio */
     margin-right: 15px;
   }
+
   .photo-container .description {
     max-width: 600px; /* Limit description width */
   }
+
   .photo-container .description img {
+    width: 20px; /* Adjust to your desired size for icons */
+    height: 20px; /* Maintain a consistent height */
+    margin: 0 1px; /* Add spacing between icons */
+    vertical-align: middle; /* Align icons with text */
+  }
+
+  /* New class for photo on the right */
+  .photo-container-right {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    flex-direction: row-reverse; /* Reverse the order of content */
+  }
+
+  .photo-container-right img {
+    width: 225px; /* Adjust to your desired width */
+    height: auto; /* Maintain aspect ratio */
+    margin-left: 15px; /* Margin adjusted to the left */
+    margin-right: 0; /* Remove right margin for consistency */
+  }
+
+  .photo-container-right .description {
+    max-width: 600px; /* Limit description width */
+  }
+
+  .photo-container-right .description img {
     width: 20px; /* Adjust to your desired size for icons */
     height: 20px; /* Maintain a consistent height */
     margin: 0 1px; /* Add spacing between icons */
@@ -103,6 +132,13 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 ### Highlights
 
 <div class="photo-container">
+  <img src="/assets/img/crocker_fig.svg" alt="">
+  <div class="description">
+    <a href="https://doi.org/10.1038/s41564-024-01752-4">Environmentally dependent interactions shape patterns in gene content across natural microbiomes, <em>Nature Microbiology</em> (2024).</a> Sequencing surveys reveal widespread correlations between microbes, their genes, and local conditions. However, the processes driving these patterns remain unclear, often leading to oversimplified explanations of environmental filtering for specific taxa or functions. In this paper, we show that microbiome gene content is shaped by microbial physiology and interactions, not just environmental factors. Using a statistical approach to analyze global topsoil microbiome data, we uncovered a novel link between denitrification reductase gene abundances and soil pH. Lab experiments and isolate characterizations confirmed that low pH stress promotes toxin-antitoxin codependency between strains.
+  </div>
+</div>
+
+<div class="photo-container-right">
   <img src="/assets/img/crocker_fig.svg" alt="">
   <div class="description">
     <a href="https://doi.org/10.1038/s41564-024-01752-4">Environmentally dependent interactions shape patterns in gene content across natural microbiomes, <em>Nature Microbiology</em> (2024).</a> Sequencing surveys reveal widespread correlations between microbes, their genes, and local conditions. However, the processes driving these patterns remain unclear, often leading to oversimplified explanations of environmental filtering for specific taxa or functions. In this paper, we show that microbiome gene content is shaped by microbial physiology and interactions, not just environmental factors. Using a statistical approach to analyze global topsoil microbiome data, we uncovered a novel link between denitrification reductase gene abundances and soil pH. Lab experiments and isolate characterizations confirmed that low pH stress promotes toxin-antitoxin codependency between strains.
