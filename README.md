@@ -2,7 +2,7 @@
 
 Microbial communities are the [engines that drive the biosphere](https://www.nrel.colostate.edu/assets/nrel_files/projects/ssi/docs/microbiology_articles/falkowski_et_al_2008.pdf), playing critical biochemical functions in ecosystems and hosts, from soils to oceans to the human gut. The Gowda Lab's guiding star is the pursuit of *natural design principles* underlying these functions. Nature "builds" community functions through the interplay of microbial physiology, community assembly, and evolutionary adaptation. This is pretty different from the ways that we as humans traditionally think about designing systems. Our view is that discovering these natural design principles will teach us how to rationally manipulate and robustly engineer complex microbiomes for the benefit of human health.
 
-The Gowda Lab is an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) at the Ohio State University who integrate experiments with organisms and synthetic communities, statistical learning, and dynamical systems modeling in the pursuit of natural design principles for microbial community functions. We try always to anchor ourselves to natural systems through collaborations with field scientists and bioinformatic investigations of environmental 'omics datasets.
+The Gowda Lab is an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) at the Ohio State University who integrate experiments with organisms and synthetic communities, statistical learning, and dynamical systems modeling in the pursuit of natural design principles for microbial community functions. Whenever possible we anchor ourselves to natural systems through collaborations with field scientists and bioinformatic investigations of environmental 'omics datasets.
 
 ## News {#news}
 - **January 2025:** We welcome Bryce Guidry and Anja Steinert to the lab! Bryce joins as a PhD student through the [Biophysics Graduate Program](https://biophysics.osu.edu/) and Anja will be taking over as lab manager.
@@ -11,9 +11,12 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
 - **May 2024:** Welcome to undergraduates Molly Easton and Aouss Azzouz! Molly joins as an undergraduate lab assistant and Aouss joins as an [SROP](https://btaa.org/docs/default-source/diversity/srop2019flyer.pdf?sfvrsn=6c8acb17_5) summer REU student from Earlham College.
 - **January 2024:** The Gowda Lab opens its doors in the Department of Microbiology at the Ohio State University.
 
-<!--
+
 ## Research {#research}
---->
+
+1. **Flux and fitness in bacterial denitrification:** 
+2. **Physiology and ecology of growth under nutrient limitation:** 
+3. **Single-cell 'omics of microdiversity:** 
 
 ## People {#people}
 
