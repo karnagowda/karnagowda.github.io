@@ -141,12 +141,9 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 <div class="photo-container-right">
   <img src="/assets/img/crocker_fig.svg" alt="">
   <div class="description">
-    <a href="https://doi.org/10.1038/s41564-024-01752-4">Environmentally dependent interactions shape patterns in gene content across natural microbiomes, <em>Nature Microbiology</em> (2024).</a> Sequencing surveys reveal widespread correlations between microbes, their genes, and local conditions. However, the processes driving these patterns remain unclear, often leading to oversimplified explanations of environmental filtering for specific taxa or functions. In this paper, we show that microbiome gene content is shaped by microbial physiology and interactions, not just environmental factors. Using a statistical approach to analyze global topsoil microbiome data, we uncovered a novel link between denitrification reductase gene abundances and soil pH. Lab experiments and isolate characterizations confirmed that low pH stress promotes toxin-antitoxin codependency between strains.
+    <a href="https://doi.org/10.1038/s41559-023-02197-4">Statistically learning the functional landscape of microbial communities, <em>Nature Ecology & Evolution</em> (2023).</a> Sequencing surveys reveal widespread correlations between microbes, their genes, and local conditions. However, the processes driving these patterns remain unclear, often leading to oversimplified explanations of environmental filtering for specific taxa or functions. In this paper, we show that microbiome gene content is shaped by microbial physiology and interactions, not just environmental factors. Using a statistical approach to analyze global topsoil microbiome data, we uncovered a novel link between denitrification reductase gene abundances and soil pH. Lab experiments and isolate characterizations confirmed that low pH stress promotes toxin-antitoxin codependency between strains. <a href="https://doi.org/10.1038/s41559-023-02214-6"><em>News & Views by Daniel Amor.</em></a>
   </div>
 </div>
-
-[Statistically learning the functional landscape of microbial communities, *Nature Ecology & Evolution* (2023).](https://doi.org/10.1038/s41559-023-02197-4)
-[*News & Views by Daniel Amor.*](https://doi.org/10.1038/s41559-023-02214-6)
 
 [Genomic structure predicts metabolite dynamics in microbial communities, *Cell* (2022)](https://doi.org/10.1016/j.cell.2021.12.036)
 [*Dispatch by Avi Flamholz and Dianne Newman.*](https://doi.org/10.1016/j.cub.2022.02.002)
