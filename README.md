@@ -147,7 +147,7 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 </div>
 
 <div class="photo-container">
-  <img src="/assets/img/crocker_fig.svg" alt="">
+  <img src="/assets/img/gowda_fig.svg" alt="">
   <div class="description">
     <a href="https://doi.org/10.1016/j.cell.2021.12.036">Genomic structure predicts metabolite dynamics in microbial communities, <em>Cell</em> (2022).</a> <br>
 <a href="https://doi.org/10.1016/j.cub.2022.02.002"><em>Dispatch by Avi Flamholz and Dianne Newman.</em></a> 
