@@ -30,7 +30,7 @@ We are an interdisciplinary team of researchers in the [Department of Microbiolo
   .photo-container .description img {
     width: 20px; /* Adjust to your desired size for icons */
     height: 20px; /* Maintain a consistent height */
-    margin: 6 2px; /* Add spacing between icons */
+    margin: 100 2px; /* Add spacing between icons */
     vertical-align: middle; /* Align icons with text */
   }
 </style>
