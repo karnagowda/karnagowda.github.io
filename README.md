@@ -129,7 +129,7 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 
 ## Publications {#pubs}
 
-### Highlights
+### Recent highlights
 
 <div class="photo-container">
   <img src="/assets/img/crocker_fig.svg" alt="">
