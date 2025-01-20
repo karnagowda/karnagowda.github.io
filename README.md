@@ -134,7 +134,7 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 <div class="photo-container">
   <img src="/assets/img/crocker_fig.svg" alt="">
   <div class="description">
-    <b><a href="https://doi.org/10.1038/s41564-024-01752-4">Environmentally dependent interactions shape patterns in gene content across natural microbiomes, <em>Nature Microbiology</em> (2024)</a></b><br>
+    <b><a href="https://doi.org/10.1038/s41564-024-01752-4">Environmentally dependent interactions shape patterns in gene content across natural microbiomes, <em>Nat Microbiol</em> (2024)</a></b><br>
     An old truism in microbial ecology is "everything is everywhere but the environment selects". But we know that interactions between organisms in microbial communities are widespread - surely interactions must matter as well as environment. In this paper, we show that community assembly is shaped by microbial physiology and interactions, not just environmental factors. Using a statistical approach to analyze global topsoil microbiome data, we uncovered a novel link between denitrification reductase gene abundances and soil pH. Lab experiments and isolate characterizations showed that low pH promotes toxin-antitoxin codependency between strains, explaining statistical patterns observed in soils around the planet.
   </div>
 </div>
@@ -142,7 +142,7 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 <div class="photo-container-right">
   <img src="/assets/img/skwara_fig.png" alt="">
   <div class="description">
-    <b><a href="https://doi.org/10.1038/s41559-023-02197-4">Statistically learning the functional landscape of microbial communities, <em>Nature Ecology & Evolution</em> (2023)</a></b><br>
+    <b><a href="https://doi.org/10.1038/s41559-023-02197-4">Statistically learning the functional landscape of microbial communities, <em>Nat Ecol Evol</em> (2023)</a></b><br>
     <a href="https://doi.org/10.1038/s41559-023-02214-6"><em>News & Views by Daniel Amor.</em></a><br>
     Imagine opening a freezer box full of strains and asking which combination of them would be best at performing a given function (e.g., producing or degrading a compound of interest). Screening all combinations of 10 strains requires at least a thousand experiments, and all combinations of 20 strains requires a million. Here, we show that searching the space of community configurations may in fact be much easier than brute force. We do this by applying statistical learning to the concept of <a href="https://doi.org/10.1016/j.cels.2022.12.011">community function landscapes</a>, showing in datasets and models that these landscapes are often smooth and thus possible to explore with only a handful of experiments.
   </div>
