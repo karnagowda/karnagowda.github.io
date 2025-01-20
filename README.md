@@ -141,17 +141,18 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 <div class="photo-container-right">
   <img src="/assets/img/skwara_fig.png" alt="">
   <div class="description">
-    <a href="https://doi.org/10.1038/s41559-023-02197-4">Statistically learning the functional landscape of microbial communities, <em>Nature Ecology & Evolution</em> (2023).</a> Imagine opening a freezer box full of strains and asking which combination of them would be best at performing a given function (e.g., producing or degrading a compound of interest). Screening all combinations of 10 strains requires at least a thousand experiments, and all combinations of 20 strains requires a million. Here, we show that searching the space of community configurations may in fact be much easier than brute force. We do this by applying statistical learning to the concept of <a href="https://doi.org/10.1016/j.cels.2022.12.011">community function landscapes</a>, showing in datasets and models that these landscapes are often smooth and thus possible to explore with only a handful of experiments.<br>
-    <a href="https://doi.org/10.1038/s41559-023-02214-6"><em>News & Views by Daniel Amor.</em></a>
+    <a href="https://doi.org/10.1038/s41559-023-02197-4">Statistically learning the functional landscape of microbial communities, <em>Nature Ecology & Evolution</em> (2023).</a><br>
+    <a href="https://doi.org/10.1038/s41559-023-02214-6"><em>News & Views by Daniel Amor.</em></a><br>
+    Imagine opening a freezer box full of strains and asking which combination of them would be best at performing a given function (e.g., producing or degrading a compound of interest). Screening all combinations of 10 strains requires at least a thousand experiments, and all combinations of 20 strains requires a million. Here, we show that searching the space of community configurations may in fact be much easier than brute force. We do this by applying statistical learning to the concept of <a href="https://doi.org/10.1016/j.cels.2022.12.011">community function landscapes</a>, showing in datasets and models that these landscapes are often smooth and thus possible to explore with only a handful of experiments.
   </div>
 </div>
 
 <div class="photo-container">
   <img src="/assets/img/gowda_fig.png" alt="">
   <div class="description">
-    <a href="https://doi.org/10.1016/j.cell.2021.12.036">Genomic structure predicts metabolite dynamics in microbial communities, <em>Cell</em> (2022).</a> 
-    In natural microbial communities, measuring gene content is one of the easiest things to do, while measuring metabolic process rates is one of the hardest. But what if we could predict the latter from the former? In this paper, we establish a proof of concept that this is possible using bacterial denitrification as a model system. Through experimental measurements of synthetic communities composed of diverse isolates, we use statistical learning to map genotypes to phenotypes, and consumer-resource modeling to map phenotypes to community metabolic dynamics.<br>
-<a href="https://doi.org/10.1016/j.cub.2022.02.002"><em>Dispatch by Avi Flamholz and Dianne Newman.</em></a> 
+    <a href="https://doi.org/10.1016/j.cell.2021.12.036">Genomic structure predicts metabolite dynamics in microbial communities, <em>Cell</em> (2022).</a><br>
+    <a href="https://doi.org/10.1016/j.cub.2022.02.002"><em>Dispatch by Avi Flamholz and Dianne Newman.</em></a><br>
+    In natural microbial communities, measuring gene content is one of the easiest things to do, while measuring metabolic process rates is one of the hardest. But what if we could predict the latter from the former? In this paper, we establish a proof of concept that this is possible using bacterial denitrification as a model system. Through experimental measurements of synthetic communities composed of diverse isolates, we use statistical learning to map genotypes to phenotypes, and consumer-resource modeling to map phenotypes to community metabolic dynamics.
   </div>
 </div>
 
