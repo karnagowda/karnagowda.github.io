@@ -28,8 +28,8 @@ We are an interdisciplinary team of researchers in the [Department of Microbiolo
     max-width: 600px; /* Limit description width */
   }
   .photo-container .description img {
-    width: 25px; /* Adjust to your desired size for icons */
-    height: 25px; /* Maintain a consistent height */
+    width: 20px; /* Adjust to your desired size for icons */
+    height: 20px; /* Maintain a consistent height */
     margin: 0 5px; /* Add spacing between icons */
     vertical-align: middle; /* Align icons with text */
   }
@@ -47,7 +47,7 @@ We are an interdisciplinary team of researchers in the [Department of Microbiolo
       const username = 'gowda.51';
       const domain = 'osu.edu';
       document.write('<a href="mailto:' + username + '@' + domain + '">' + username + '@' + domain + '</a>');
-    </script><br>
+    </script><br><br>
 	<a href="https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en" style="text-decoration: none;">
 	  <img src="/assets/icons/google_scholar.svg" alt="Google Scholar"/>
 	</a>
