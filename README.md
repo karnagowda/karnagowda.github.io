@@ -30,7 +30,7 @@ Microbial communities are the <a href="https://www.nrel.colostate.edu/assets/nre
   .photo-container .description img {
     width: 20px; /* Adjust to your desired size for icons */
     height: 20px; /* Maintain a consistent height */
-    margin: 0 5px; /* Add spacing between icons */
+    margin: 0 0px; /* Add spacing between icons */
     vertical-align: middle; /* Align icons with text */
   }
 </style>
@@ -48,7 +48,7 @@ Microbial communities are the <a href="https://www.nrel.colostate.edu/assets/nre
       const domain = 'osu.edu';
       document.write('<a href="mailto:' + username + '@' + domain + '">' + username + '@' + domain + '</a>');
     </script>
-    <br>
+    <br><br>
     <a href="https://microbiology.osu.edu/people/gowda.51" style="text-decoration: none;">
        <img src="/assets/icons/osu.png" alt="OSU Microbiology"/>
     </a>
