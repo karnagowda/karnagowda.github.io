@@ -47,7 +47,7 @@ We are an interdisciplinary team of researchers in the [Department of Microbiolo
       const username = 'gowda.51';
       const domain = 'osu.edu';
       document.write('<a href="mailto:' + username + '@' + domain + '">' + username + '@' + domain + '</a>');
-    </script><br><br>
+    </script><br><br style="line-height: 0.5em;">
 	<a href="https://microbiology.osu.edu/people/gowda.51" style="text-decoration: none;">
 	  <img src="/assets/icons/osu.png" alt="OSU Microbiology"/>
 	</a>
