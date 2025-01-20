@@ -32,16 +32,16 @@ We are an interdisciplinary team of researchers in the [Department of Microbiolo
 <div class="photo-container">
   <img src="/assets/img/kgowda.jpg" alt="Karna Gowda, PhD">
   <div class="description">
-    <h3>Karna Gowda, PhD</h3>
+    <h3>Karna Gowda, PhD <a href="/assets/docs/kgowda_cv.pdf">[CV]</a> </h3>
     Principal Investigator<br>
 	Department of Microbiology<br>
 	Biophysics Graduate Program<br>
+	The Ohio State University<br>
     <script>
       const username = 'gowda.51';
       const domain = 'osu.edu';
       document.write('<a href="mailto:' + username + '@' + domain + '">' + username + '@' + domain + '</a>');
     </script><br>
-    <a href="/assets/docs/kgowda_cv.pdf">CV</a>
   </div>
 </div>
 
