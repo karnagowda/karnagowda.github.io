@@ -141,7 +141,7 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 <div class="photo-container-right">
   <img src="/assets/img/skwara_fig.png" alt="">
   <div class="description">
-    <a href="https://doi.org/10.1038/s41559-023-02197-4">Statistically learning the functional landscape of microbial communities, <em>Nature Ecology & Evolution</em> (2023).</a> Imagine opening a freezer box full of strains and asking which combination of them would be best at performing a given function (e.g., producing or degrading a compound of interest). Screening all combinations of 10 strains requires at least a thousand experiments, and all combinations of 20 strains requires a million. Here, we show that searching the space of community configures may in fact be much easier than brute force. We do this by applying statistical learning to the concept of community function landscapes, showing in datasets and models that these landscapes are often smooth and thus possible to explore with only a handful of experiments.<br>
+    <a href="https://doi.org/10.1038/s41559-023-02197-4">Statistically learning the functional landscape of microbial communities, <em>Nature Ecology & Evolution</em> (2023).</a> Imagine opening a freezer box full of strains and asking which combination of them would be best at performing a given function (e.g., producing or degrading a compound of interest). Screening all combinations of 10 strains requires at least a thousand experiments, and all combinations of 20 strains requires a million. Here, we show that searching the space of community configurations may in fact be much easier than brute force. We do this by applying statistical learning to the concept of <a href="https://doi.org/10.1016/j.cels.2022.12.011">community function landscapes</a>, showing in datasets and models that these landscapes are often smooth and thus possible to explore with only a handful of experiments.<br>
     <a href="https://doi.org/10.1038/s41559-023-02214-6"><em>News & Views by Daniel Amor.</em></a>
   </div>
 </div>
@@ -149,7 +149,7 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 <div class="photo-container">
   <img src="/assets/img/crocker_fig.svg" alt="">
   <div class="description">
-    <a href="https://doi.org/10.1016/j.cell.2021.12.036">Genomic structure predicts metabolite dynamics in microbial communities, <em>Cell</em> (2022).</a> Sequencing surveys reveal widespread correlations between microbes, their genes, and local conditions. However, the processes driving these patterns remain unclear, often leading to oversimplified explanations of environmental filtering for specific taxa or functions. In this paper, we show that microbiome gene content is shaped by microbial physiology and interactions, not just environmental factors. Using a statistical approach to analyze global topsoil microbiome data, we uncovered a novel link between denitrification reductase gene abundances and soil pH. Lab experiments and isolate characterizations confirmed that low pH stress promotes toxin-antitoxin codependency between strains.<br>
+    <a href="https://doi.org/10.1016/j.cell.2021.12.036">Genomic structure predicts metabolite dynamics in microbial communities, <em>Cell</em> (2022).</a> <br>
 <a href="https://doi.org/10.1016/j.cub.2022.02.002"><em>Dispatch by Avi Flamholz and Dianne Newman.</em></a> 
   </div>
 </div>
