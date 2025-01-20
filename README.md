@@ -27,6 +27,12 @@ We are an interdisciplinary team of researchers in the [Department of Microbiolo
   .photo-container .description {
     max-width: 600px; /* Limit description width */
   }
+  .photo-container .description img {
+    width: 20px; /* Adjust to your desired size for icons */
+    height: 20px; /* Maintain a consistent height */
+    margin: 0 5px; /* Add spacing between icons */
+    vertical-align: middle; /* Align icons with text */
+  }
 </style>
 
 <div class="photo-container">
@@ -43,16 +49,16 @@ We are an interdisciplinary team of researchers in the [Department of Microbiolo
       document.write('<a href="mailto:' + username + '@' + domain + '">' + username + '@' + domain + '</a>');
     </script><br>
 	<a href="https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en" style="text-decoration: none;">
-	  <img src="/assets/icons/google_scholar.svg" alt="Google Scholar" width="5" height="5"/>
+	  <img src="/assets/icons/google_scholar.svg" alt="Google Scholar"/>
 	</a>
 	<a href="https://orcid.org/my-orcid?orcid=0000-0001-6812-4745" style="text-decoration: none;">
-	  <img src="/assets/icons/orcid.svg" alt="ORCID" width="5" height="5"/>
+	  <img src="/assets/icons/orcid.svg" alt="ORCID"/>
 	</a>
 	<a href="https://bsky.app/profile/karnagowda.bsky.social" style="text-decoration: none;">
-	  <img src="/assets/icons/bluesky.svg" alt="Bluesky" width="5" height="5"/>
+	  <img src="/assets/icons/bluesky.svg" alt="Bluesky"/>
 	</a>
 	<a href="https://x.com/KarnaVGowda" style="text-decoration: none;">
-	  <img src="/assets/icons/x.svg" alt="X" width="5" height="5"/>
+	  <img src="/assets/icons/x.svg" alt="X"/>
 	</a>
   </div>
 </div>
