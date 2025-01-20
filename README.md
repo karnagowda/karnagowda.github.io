@@ -98,7 +98,7 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
   </div>
 </div>
 
-<div class="photo-container">
+<div class="photo-container-right">
   <img src="/assets/img/nullavatar.jpg" alt="Anja Steinert">
   <div class="description">
     <h3>Anja Steinert</h3>
@@ -116,7 +116,7 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
   </div>
 </div>
 
-<div class="photo-container">
+<div class="photo-container-right">
   <img src="/assets/img/nullavatar.jpg" alt="Molly Easton">
   <div class="description">
     <h3>Molly Easton</h3>
