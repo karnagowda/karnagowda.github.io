@@ -134,7 +134,7 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 <div class="photo-container">
   <img src="/assets/img/crocker_fig.svg" alt="">
   <div class="description">
-    <a href="https://doi.org/10.1038/s41564-024-01752-4">Environmentally dependent interactions shape patterns in gene content across natural microbiomes, <em>Nature Microbiology</em> (2024).</a> An old truism in microbial ecology is "everything is everywhere but the environment selects". But we know that interactions between organisms in microbial communities are widespread - surely interactions must matter as well as environment. In this paper, we show that community assembly is shaped by microbial physiology and interactions, not just environmental factors. Using a statistical approach to analyze global topsoil microbiome data, we uncovered a novel link between denitrification reductase gene abundances and soil pH. Lab experiments and isolate characterizations showed that low pH stress promotes toxin-antitoxin codependency between strains.
+    <a href="https://doi.org/10.1038/s41564-024-01752-4">Environmentally dependent interactions shape patterns in gene content across natural microbiomes, <em>Nature Microbiology</em> (2024).</a> An old truism in microbial ecology is "everything is everywhere but the environment selects". But we know that interactions between organisms in microbial communities are widespread - surely interactions must matter as well as environment. In this paper, we show that community assembly is shaped by microbial physiology and interactions, not just environmental factors. Using a statistical approach to analyze global topsoil microbiome data, we uncovered a novel link between denitrification reductase gene abundances and soil pH. Lab experiments and isolate characterizations showed that low pH promotes toxin-antitoxin codependency between strains.
   </div>
 </div>
 
@@ -150,7 +150,7 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
   <img src="/assets/img/gowda_fig.svg" alt="">
   <div class="description">
     <a href="https://doi.org/10.1016/j.cell.2021.12.036">Genomic structure predicts metabolite dynamics in microbial communities, <em>Cell</em> (2022).</a> 
-    In natural communities, the microbial gene content is one of the easiest things to measure, while metabolic process rates is one of the hardest. Is it possible to predict the latter from the former? <br>
+    In natural microbial communities, measuring gene content is one of the easiest things to do, while measuring metabolic process rates is one of the hardest. But what if we could predict the latter from the former? In this paper, we establish a proof of concept that this is possible using bacterial denitrification as a model system. Through experimental measurements of synthetic communities composed of diverse isolates, we use statistical learning to map genotypes to phenotypes, and consumer-resource modeling to map phenotypes to community metabolic dynamics.<br>
 <a href="https://doi.org/10.1016/j.cub.2022.02.002"><em>Dispatch by Avi Flamholz and Dianne Newman.</em></a> 
   </div>
 </div>
