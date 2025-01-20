@@ -147,7 +147,7 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 </div>
 
 <div class="photo-container">
-  <img src="/assets/img/gowda_fig.svg" alt="">
+  <img src="/assets/img/gowda_fig.png" alt="">
   <div class="description">
     <a href="https://doi.org/10.1016/j.cell.2021.12.036">Genomic structure predicts metabolite dynamics in microbial communities, <em>Cell</em> (2022).</a> 
     In natural microbial communities, measuring gene content is one of the easiest things to do, while measuring metabolic process rates is one of the hardest. But what if we could predict the latter from the former? In this paper, we establish a proof of concept that this is possible using bacterial denitrification as a model system. Through experimental measurements of synthetic communities composed of diverse isolates, we use statistical learning to map genotypes to phenotypes, and consumer-resource modeling to map phenotypes to community metabolic dynamics.<br>
