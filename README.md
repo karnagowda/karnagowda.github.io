@@ -26,11 +26,11 @@ We are an interdisciplinary team of researchers in the [Department of Microbiolo
   }
   .photo-container .description {
     max-width: 600px; /* Limit description width */
-    margin: 0 5px; /* Add spacing between icons */
   }
   .photo-container .description img {
     width: 20px; /* Adjust to your desired size for icons */
     height: 20px; /* Maintain a consistent height */
+    margin: 0 5px; /* Add spacing between icons */
     vertical-align: middle; /* Align icons with text */
   }
 </style>
