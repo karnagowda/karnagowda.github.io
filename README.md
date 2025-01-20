@@ -1,6 +1,6 @@
 <div style="padding-top: 55px;"></div>
 
-We are an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) at the Ohio State University who use experiments, computation, and theory to understand the ecology and evolution of microbes that populate Earth's natural environments.
+The goal of the Gowda Lab is to discover “natural design principles” underlying the metabolic functions carried out by microbial communities. Our view is that, by understanding how microbial physiology, ecology, and evolution conspire to “build” community metabolism, we will learn how to rationally manipulate and design complex microbiomes for the benefit of human health. 
 
 ## News {#news}
 - **January 2025:** We welcome Bryce Guidry and Anja Steinert to the lab! Bryce joins as a PhD student through the [Biophysics Graduate Program](https://biophysics.osu.edu/) and Anja will be taking over as lab manager.
