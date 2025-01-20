@@ -74,7 +74,7 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
   <div class="description">
     <h3>Anja Steinert</h3>
     Lab Manager<br>
-    BS, The Ohio State University
+    BS in Biology, The Ohio State University
   </div>
 </div>
 
@@ -83,7 +83,7 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
   <div class="description">
     <h3>Bryce Guidry</h3>
     PhD Student, Biophysics<br>
-    BS, Emory University<br>
+    BS in Physics, Emory University<br>
   </div>
 </div>
 
