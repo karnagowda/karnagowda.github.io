@@ -103,9 +103,9 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 ### Highlights
 
 <div class="photo-container">
-  <img src="/assets/img/nullavatar.jpg" alt="">
+  <img src="/assets/img/crocker_fig.svg" alt="">
   <div class="description">
-    <a href="https://doi.org/10.1038/s41564-024-01752-4">Environmentally dependent interactions shape patterns in gene content across natural microbiomes, <em>Nature Microbiology</em> (2024).</a> Microbiome sequencing surveys reveal widespread correlations between microbes, their genes, and local conditions. However, the processes driving these patterns remain unclear, often leading to oversimplified explanations of environmental filtering for specific taxa or functions. In this paper, we show that microbiome gene content is shaped by microbial physiology and interactions, not just environmental factors. Using a statistical approach to analyze global topsoil microbiome data, we uncovered a novel link between denitrification reductase gene abundances and soil pH. Lab experiments and isolate characterizations confirmed that low pH stress promotes toxin-antitoxin codependency between strains.
+    <a href="https://doi.org/10.1038/s41564-024-01752-4">Environmentally dependent interactions shape patterns in gene content across natural microbiomes, <em>Nature Microbiology</em> (2024).</a> Sequencing surveys reveal widespread correlations between microbes, their genes, and local conditions. However, the processes driving these patterns remain unclear, often leading to oversimplified explanations of environmental filtering for specific taxa or functions. In this paper, we show that microbiome gene content is shaped by microbial physiology and interactions, not just environmental factors. Using a statistical approach to analyze global topsoil microbiome data, we uncovered a novel link between denitrification reductase gene abundances and soil pH. Lab experiments and isolate characterizations confirmed that low pH stress promotes toxin-antitoxin codependency between strains.
   </div>
 </div>
 
