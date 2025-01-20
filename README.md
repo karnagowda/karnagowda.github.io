@@ -30,7 +30,7 @@ Microbial communities are the <a href="https://www.nrel.colostate.edu/assets/nre
   .photo-container .description img {
     width: 20px; /* Adjust to your desired size for icons */
     height: 20px; /* Maintain a consistent height */
-    margin: 0 0px; /* Add spacing between icons */
+    margin: 0 1px; /* Add spacing between icons */
     vertical-align: middle; /* Align icons with text */
   }
 </style>
