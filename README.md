@@ -40,29 +40,30 @@ We are an interdisciplinary team of researchers in the [Department of Microbiolo
   <div class="description">
     <h3>Karna Gowda, PhD <a href="/assets/docs/kgowda_cv.pdf">[CV]</a> </h3>
     Principal Investigator<br>
-	Department of Microbiology<br>
-	Biophysics Graduate Program<br>
-	The Ohio State University<br>
+    Department of Microbiology<br>
+    Biophysics Graduate Program<br>
+    The Ohio State University<br>
     <script>
       const username = 'gowda.51';
       const domain = 'osu.edu';
       document.write('<a href="mailto:' + username + '@' + domain + '">' + username + '@' + domain + '</a>');
-    </script><br><br style="line-height: 0.5em;">
-	<a href="https://microbiology.osu.edu/people/gowda.51" style="text-decoration: none;">
-	  <img src="/assets/icons/osu.png" alt="OSU Microbiology"/>
-	</a>
-	<a href="https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en" style="text-decoration: none;">
-	  <img src="/assets/icons/google_scholar.svg" alt="Google Scholar"/>
-	</a>
-	<a href="https://orcid.org/0000-0001-6812-4745" style="text-decoration: none;">
-	  <img src="/assets/icons/orcid.svg" alt="ORCID"/>
-	</a>
-	<a href="https://bsky.app/profile/karnagowda.bsky.social" style="text-decoration: none;">
-	  <img src="/assets/icons/bluesky.svg" alt="Bluesky"/>
-	</a>
-	<a href="https://x.com/KarnaVGowda" style="text-decoration: none;">
-	  <img src="/assets/icons/x.svg" alt="X"/>
-	</a>
+    </script>
+    <br>
+    <a href="https://microbiology.osu.edu/people/gowda.51" style="text-decoration: none;">
+       <img src="/assets/icons/osu.png" alt="OSU Microbiology"/>
+    </a>
+    <a href="https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en" style="text-decoration: none;">
+       <img src="/assets/icons/google_scholar.svg" alt="Google Scholar"/>
+    </a>
+    <a href="https://orcid.org/0000-0001-6812-4745" style="text-decoration: none;">
+       <img src="/assets/icons/orcid.svg" alt="ORCID"/>
+    </a>
+    <a href="https://bsky.app/profile/karnagowda.bsky.social" style="text-decoration: none;">
+       <img src="/assets/icons/bluesky.svg" alt="Bluesky"/>
+    </a>
+    <a href="https://x.com/KarnaVGowda" style="text-decoration: none;">
+       <img src="/assets/icons/x.svg" alt="X"/>
+    </a>
   </div>
 </div>
 
