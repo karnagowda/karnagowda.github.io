@@ -51,7 +51,7 @@ We are an interdisciplinary team of researchers in the [Department of Microbiolo
 	<a href="https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en" style="text-decoration: none;">
 	  <img src="/assets/icons/google_scholar.svg" alt="Google Scholar"/>
 	</a>
-	<a href="https://orcid.org/my-orcid?orcid=0000-0001-6812-4745" style="text-decoration: none;">
+	<a href="https://orcid.org/0000-0001-6812-4745" style="text-decoration: none;">
 	  <img src="/assets/icons/orcid.svg" alt="ORCID"/>
 	</a>
 	<a href="https://bsky.app/profile/karnagowda.bsky.social" style="text-decoration: none;">
