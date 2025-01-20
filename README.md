@@ -20,7 +20,7 @@ We are an interdisciplinary team of researchers in the [Department of Microbiolo
     margin-bottom: 20px;
   }
   .photo-container img {
-    width: 250px; /* Adjust to your desired width */
+    width: 225px; /* Adjust to your desired width */
     height: auto; /* Maintain aspect ratio */
     margin-right: 15px;
   }
