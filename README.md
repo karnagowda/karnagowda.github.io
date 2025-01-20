@@ -42,6 +42,18 @@ We are an interdisciplinary team of researchers in the [Department of Microbiolo
       const domain = 'osu.edu';
       document.write('<a href="mailto:' + username + '@' + domain + '">' + username + '@' + domain + '</a>');
     </script><br>
+	<a href="https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en" style="text-decoration: none;">
+	  <img src="/assets/icons/google_scholar.svg" alt="Google Scholar" width="30" height="30"/>
+	</a>
+	<a href="https://orcid.org/my-orcid?orcid=0000-0001-6812-4745" style="text-decoration: none;">
+	  <img src="/assets/icons/orcid.svg" alt="ORCID" width="30" height="30"/>
+	</a>
+	<a href="https://bsky.app/profile/karnagowda.bsky.social" style="text-decoration: none;">
+	  <img src="/assets/icons/bluesky.svg" alt="Bluesky" width="30" height="30"/>
+	</a>
+	<a href="https://x.com/KarnaVGowda" style="text-decoration: none;">
+	  <img src="/assets/icons/x.svg" alt="X" width="30" height="30"/>
+	</a>
   </div>
 </div>
 
