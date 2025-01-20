@@ -105,7 +105,7 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 Crocker, K., Lee, K. K., Chakraverti-Wuerthwein, M., Li, Z., Tikhonov, M., Mani, M., Gowda, K., & Kuehn, S. (2024). Environmentally dependent interactions shape patterns in gene content across natural microbiomes. *Nature Microbiology*, 9(8), 2022–2037. doi: [10.1038/s41564-024-01752-4](https://doi.org/10.1038/s41564-024-01752-4)
 
 Skwara, A., Gowda, K., Yousef, M., Diaz-Colunga, J., Raman, A. S., Sanchez, A., Tikhonov, M., & Kuehn, S. (2023). Statistically learning the functional landscape of microbial communities. *Nature Ecology & Evolution*, 7(11), 1823–1833. doi: [10.1038/s41559-023-02197-4](https://doi.org/10.1038/s41559-023-02197-4)
-[*News and Views by Daniel Amor.*](https://doi.org/10.1038/s41559-023-02214-6)
+[*News & Views by Daniel Amor.*](https://doi.org/10.1038/s41559-023-02214-6)
 
 Gowda, K., Ping, D., Mani, M., & Kuehn, S. (2022). Genomic structure predicts metabolite dynamics in microbial communities. *Cell*, 185(3), 530-546.e25. doi: [10.1016/j.cell.2021.12.036](https://doi.org/10.1016/j.cell.2021.12.036)
 [*Dispatch by Avi Flamholz and Dianne Newman.*](https://doi.org/10.1016/j.cub.2022.02.002)
