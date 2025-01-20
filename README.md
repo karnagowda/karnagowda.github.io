@@ -100,9 +100,9 @@ Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 
 ## Publications {#pubs}
 
-### Highlighted
+### Highlights
 
-[Environmentally dependent interactions shape patterns in gene content across natural microbiomes, *Nature Microbiology* (2024).](https://doi.org/10.1038/s41564-024-01752-4)
+[Environmentally dependent interactions shape patterns in gene content across natural microbiomes, *Nature Microbiology* (2024).](https://doi.org/10.1038/s41564-024-01752-4) Sequencing surveys of host and environmental communities reveal widespread correlations between microbes, their genes, and local conditions. However, the processes driving these patterns remain unclear, often leading to oversimplified explanations of environmental filtering for specific taxa or functions. In this paper, we show that microbiome gene content is shaped by microbial physiology and interactions, not just environmental factors. Using a statistical approach to analyze global topsoil microbiome data, we uncovered a novel link between denitrification reductase gene abundances and soil pH. Lab experiments and isolate characterizations confirmed that low pH stress promotes toxin-antitoxin codependency between strains.
 
 [Statistically learning the functional landscape of microbial communities, *Nature Ecology & Evolution* (2023).](https://doi.org/10.1038/s41559-023-02197-4)
 [*News & Views by Daniel Amor.*](https://doi.org/10.1038/s41559-023-02214-6)
