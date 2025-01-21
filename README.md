@@ -11,12 +11,15 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
 - **May 2024:** Welcome to undergraduates Molly Easton and Aouss Azzouz! Molly joins as an undergraduate lab assistant and Aouss joins as an [SROP](https://btaa.org/docs/default-source/diversity/srop2019flyer.pdf?sfvrsn=6c8acb17_5) summer REU student from Earlham College.
 - **January 2024:** The Gowda Lab opens its doors in the Department of Microbiology at the Ohio State University.
 
-
+<!---
 ## Research {#research}
 
-1. **Flux and fitness in bacterial denitrification:** 
-2. **Physiology and ecology of growth under nutrient limitation:** 
-3. **Single-cell 'omics of microdiversity:** 
+1. **The costs and consequences of metabolic functionality:** While metabolic functions help microbes grow, they have costs as well, from the intracellular investments required for gene expression to opportunity costs in an ecological context. Bacterial denitrification, a form of anaerobic respiration and a key branch of the global nitrogen cycle, is a model system for studying these costs. Denitrifying bacteria can perform virtually any combination of the steps involved in the process, each of which results in the generation of ATP. Moreover we see that communities in different environments assemble the denitrification pathway in different ways, sometimes resulting in the emission of the potent greenhouse gas nitrous oxide. The goal of this project is to investigate  intracellular costs explain these observations, i.e., why isn't it always better to do all the ATP generating steps in denitrification?
+2.
+3. how competition for intracellular resources determines functional costs in denitrification, (2) how these costs influence community assembly across environmental contexts
+4. **Physiology and ecology of growth under nutrient limitation:** 
+5. **Single-cell 'omics of fine scale diversity:** 
+--->
 
 ## People {#people}
 
