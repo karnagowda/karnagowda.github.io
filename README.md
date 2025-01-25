@@ -14,7 +14,7 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
 <!---
 ## Research {#research}
 
-1. **The cost of metabolic functionality in denitrifying communities:** [We](https://doi.org/10.1038/s41564-024-01752-4) and others have shown that nature assembles the denitrification pathway differently depending on environmental context—sometimes with generalist organisms that do all the steps in the pathway, and sometimes with specialists who do a subset of steps. Why  We take a resource allocation perspective to interrogating how 
+1. **The cost of metabolic functionality in denitrifying communities:** Textbooks will tell you that bacterial denitrification is a process whereby organisms generate ATP through a series of reactions starting with nitrate and ending with dinitrogen gas. 
 2. **Physiology and ecology of growth under nutrient limitation:** 
 3. **Single-cell 'omics of fine scale diversity:** 
 --->
