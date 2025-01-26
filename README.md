@@ -4,14 +4,14 @@ Microbial communities are the [engines that drive the biosphere](https://www.nre
 
 The Gowda Lab is an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) at the Ohio State University who integrate experiments with organisms and synthetic communities, statistical learning, and dynamical systems modeling in the pursuit of natural design principles for microbial community functions. Whenever possible we anchor ourselves to natural systems through collaborations with field scientists and bioinformatic investigations of environmental 'omics datasets.
 
-## *News* {#news}
+## *NEWS* {#news}
 - **January 2025:** We welcome Bryce Guidry and Anja Steinert to the lab! Bryce joins as a PhD student through the [Biophysics Graduate Program](https://biophysics.osu.edu/) and Anja will be taking over as lab manager.
 - **November 2024:** Summer REU student Aouss Azzouz [won a poster award for presenting his work in the Gowda Lab at ABRCMS](https://abrcms.org/wp-content/uploads/2024/11/ABRCMS-2024-Awardee-List.pdf)! Congrats Aouss!
 - **July 2024:** Our paper on how interactions shape denitrifying communities in the soil microbiome is now out in [Nature Microbiology](https://doi.org/10.1038/s41564-024-01752-4).
 - **May 2024:** Welcome to undergraduates Molly Easton and Aouss Azzouz! Molly joins as an undergraduate lab assistant and Aouss joins as an [SROP](https://btaa.org/docs/default-source/diversity/srop2019flyer.pdf?sfvrsn=6c8acb17_5) summer REU student from Earlham College.
 - **January 2024:** The Gowda Lab opens its doors in the Department of Microbiology at the Ohio State University.
 
-## *People* {#people}
+## *PEOPLE* {#people}
 
 <style>
   .photo-container {
@@ -125,13 +125,13 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
 ### Alumni
 Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 
-## *Research* {#research}
+## *RESEARCH* {#research}
 
 1. **The cost of metabolic functionality in bacterial denitrification:** Textbooks will tell you that organisms generate ATP via denitrification through a series of reactions starting with nitrate and ending with dinitrogen gas; that is, the process is carried out from start to finish by individual organisms. When [we look at natural environments](https://doi.org/10.1038/s41564-024-01752-4), we see that denitrification is very much a community phenomenon, where the pathway is often split up amongst different organisms. The overarching goal of this project is to understand the physiological costs of performing single vs. multiple denitrification reactions, and to use this knowledge to explain and predict the community ecology of denitrifying communities in different environmental contexts.
 2. **Life in the slow lane:** Lab studies of microbes typically take place in fast-growth conditions—but organisms in natural environments often grow much more slowly, due to limitations imposed by low nutrient concentrations. The goal of this project is to develop high-throughput platforms for measuring growth in nutrient-limited conditions and to understand the physiological and ecological consequences of different environmentally-prevelent forms of nutrient limitation (i.e., P, N, and C limitation).
 3. **Single-cell 'omics of microbial communities:** The fundamental unit of a microbial community is not the population but the single cell—even at the strain-level, there is staggering diversity arising at the genomic and transcriptomic scales, which is essentially papered-over by bulk sequencing measurements. The long term goal of this project is to apply and refine emerging bacterial single cell genomics and transcriptomics approaches (in collaboration with the [Sullivan](https://u.osu.edu/viruslab/) and [Prakash](https://mae.osu.edu/people/prakash.31) labs) to the study of communities, and to develop computational approaches relevant to the unique questions and challenges posed by these measurements in a community context.
 
-## *Publications* {#pubs}
+## *PUBLICATIONS* {#pubs}
 
 ### Recent highlights
 
