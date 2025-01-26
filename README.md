@@ -11,13 +11,11 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
 - **May 2024:** Welcome to undergraduates Molly Easton and Aouss Azzouz! Molly joins as an undergraduate lab assistant and Aouss joins as an [SROP](https://btaa.org/docs/default-source/diversity/srop2019flyer.pdf?sfvrsn=6c8acb17_5) summer REU student from Earlham College.
 - **January 2024:** The Gowda Lab opens its doors in the Department of Microbiology at the Ohio State University.
 
-<!---
 ## Research {#research}
 
-1. **The cost of metabolic functionality in denitrifying communities:** Textbooks will tell you that bacterial denitrification is a process whereby organisms generate ATP through a series of reactions starting with nitrate and ending with dinitrogen gas. 
-2. **Physiology and ecology of growth under nutrient limitation:** 
-3. **Single-cell 'omics of fine scale diversity:** 
---->
+1. **The cost of metabolic functionality in bacterial denitrification:** Textbooks will tell you that organisms generate ATP via denitrification through a series of reactions starting with nitrate and ending with dinitrogen gas; that is, the process is carried out from start to finish by individual organisms. When [we look at natural environments](https://doi.org/10.1038/s41564-024-01752-4), we see that denitrification is very much a community phenomenon, where the pathway is often split up amongst different organisms. The overarching goal of this project is to understand the physiological costs of performing single vs. multiple denitrification reactions, and to use this knowledge to explain and predict the community ecology of denitrifying communities in different environmental contexts.
+2. **Life in the slow lane:** Lab studies of microbes typically involve fast-growth conditions—but organisms in natural environments often grow much more slowly, due to limitations imposed by low nutrient concentrations. The goal of this project is to develop high-throughput platforms for measuring growth in nutrient-limited conditions and to understand the physiological and ecological consequences of different environmentally-prevelent forms of nutrient limitation (i.e., P, N, and C limitation).
+3. **Single-cell 'omics of fine scale diversity:** The fundamental unit of a wild microbial community is not the population but the single cell - even within species, there is staggering diversity arising at the genomic and transcriptomic scales, which is essentially papered-over by bulk sequencing measurement approaches. The long term goal of this project is to apply emerging bacterial single cell genomics and transcriptomics approaches to the study of communities (in collaboration with the [Sullivan](https://u.osu.edu/viruslab/) and [Prakash](https://mae.osu.edu/people/prakash.31) labs), and to develop computational approaches relevant to the unique questions and challenges posed by these measurements in a community context.
 
 ## People {#people}
 
