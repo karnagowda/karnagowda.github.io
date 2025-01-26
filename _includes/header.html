@@ -4,7 +4,7 @@
       {%- assign default_paths = site.pages | map: "path" -%}
       {%- assign page_paths = site.header_pages | default: default_paths -%}
       {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-      <b><a class="site-title" rel="author" href="{{ "#top" | relative_url }}">{{ site.title | escape }}</a></b>
+      <em><a class="site-title" rel="author" href="{{ "#top" | relative_url }}">{{ site.title | escape }}</a></em>
       <img src="/assets/icons/gowdalab_logo.svg" alt="" height="40"/>
       <nav class="site-nav">
         <a href="#news">news</a> | 
