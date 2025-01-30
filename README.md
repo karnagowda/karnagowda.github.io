@@ -122,6 +122,14 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
   </div>
 </div>
 
+<div class="photo-container">
+  <img src="/assets/img/kuro.jpg" alt="Kuromatsu">
+  <div class="description">
+    <h3>Kuromatsu</h3>
+    Dog
+  </div>
+</div>
+
 ### Alumni
 Aouss Azzouz (Earlham College), Summer Undergraduate Researcher
 
