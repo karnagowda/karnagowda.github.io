@@ -107,7 +107,7 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
 </div>
 
 <div class="photo-container">
-  <img src="/assets/img/nullavatar.jpg" alt="Bryce Guidry">
+  <img src="/assets/img/dcipiti.jpg" alt="Dominic Cipiti">
   <div class="description">
     <h3>Dominic Cipiti</h3>
     PhD Student, Microbiology<br>
