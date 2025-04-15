@@ -5,6 +5,7 @@ Microbial communities are the [engines that drive the biosphere](https://www.nre
 The Gowda Lab is an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) at the Ohio State University who integrate experiments with organisms/synthetic communities, statistical learning, and dynamical systems modeling in the pursuit of natural design principles for microbial community functions. Whenever possible we anchor ourselves to natural systems through collaborations with field scientists and bioinformatic investigations of 'omics datasets.
 
 ## *NEWS* {#news}
+- **April 2025:** Undergraduate researcher Aouss Azzouz won another poster award, this time at the Emerging Researchers National Conference in STEM. Also very proud to announce that he will be starting med school at UPenn next Fall. Congrats Aouss!
 - **February 2025:** We are thrilled to have Dominic Cipiti joining the lab as a Microbiology PhD student. He will take a resource-allocation perspective to the study of denitrification physiology.
 - **January 2025:** We welcome Bryce Guidry and Anja Steinert to the lab! Bryce joins as a PhD student through the [Biophysics Graduate Program](https://biophysics.osu.edu/) and will be working on single-cell approaches for studying bacteria. Anja will be taking over as lab manager.
 - **November 2024:** Summer REU student Aouss Azzouz [won a poster award for presenting his work in the Gowda Lab at ABRCMS](https://abrcms.org/wp-content/uploads/2024/11/ABRCMS-2024-Awardee-List.pdf)! Congrats Aouss!
