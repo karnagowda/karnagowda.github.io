@@ -135,6 +135,14 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
 </div>
 
 <div class="photo-container">
+  <img src="/assets/img/nullavatar.jpg" alt="Emily Yoon">
+  <div class="description">
+    <h3>Emily Yoon</h3>
+    Undergraduate Researcher, Williams College
+  </div>
+</div>
+
+<div class="photo-container">
   <img src="/assets/img/kuro.jpg" alt="Kuromatsu">
   <div class="description">
     <h3>Kuromatsu</h3>
