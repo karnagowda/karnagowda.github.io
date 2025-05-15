@@ -87,7 +87,7 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
     <a href="https://scholar.google.com/citations?user=XfqeDCIAAAAJ&hl=en" style="text-decoration: none;">
        <img src="/assets/icons/google_scholar.svg" alt="Google Scholar"/>
     </a>
-    <a href="www.linkedin.com/in/karna-gowda-69079735a" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/karna-gowda-69079735a" style="text-decoration: none;">
        <img src="/assets/icons/linkedin.svg" alt="LinkedIn"/>
     </a>
     <a href="https://orcid.org/0000-0001-6812-4745" style="text-decoration: none;">
