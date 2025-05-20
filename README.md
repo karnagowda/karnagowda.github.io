@@ -154,7 +154,7 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
 </div>
 
 ### Alumni
-Aouss Azzouz (Earlham College), SROP Undergraduate Researcher
+Aouss Azzouz (Earlham College→UPenn Medical School), SROP Undergraduate Researcher
 
 ## *RESEARCH* {#research}
 
