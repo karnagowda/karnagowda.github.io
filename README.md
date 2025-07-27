@@ -141,10 +141,7 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
   </div>
 </div>
 
-<figure>
-  <img src="/assets/img/gowdalab.jpg" alt="Gowda Lab 2025">
-  Gowda Lab, 2025
-</figure>
+<img src="/assets/img/gowdalab.jpg" alt="Gowda Lab 2025">
 
 
 ### Alumni
