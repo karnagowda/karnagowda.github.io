@@ -2,7 +2,7 @@
 
 Microbial communities are the [engines that drive the biosphere](https://www.nrel.colostate.edu/assets/nrel_files/projects/ssi/docs/microbiology_articles/falkowski_et_al_2008.pdf), playing critical biochemical functions in ecosystems and hosts, from soils to oceans to the human gut. The Gowda Lab's guiding star is the pursuit of *natural design principles* underlying these functions. Nature "builds" community functions through the interplay of cellular physiology, community assembly, and evolutionary adaptation. This is pretty different from the ways that we as humans traditionally think about designing systems. Our view is that discovering these natural design principles via the integrated study of physiology, ecology, and evolution will teach us how to rationally manipulate and robustly engineer complex microbiomes for the benefit of human health.
 
-The Gowda Lab is an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) at the Ohio State University who integrate experiments with organisms/synthetic communities, statistical learning, and dynamical systems modeling in the pursuit of natural design principles for microbial community functions. Whenever possible we anchor ourselves to natural systems through collaborations with field scientists and bioinformatic investigations of 'omics datasets.
+The Gowda Lab is an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) at the Ohio State University who integrate experiments with computation and modeling in the pursuit of natural design principles of **the nitrogen cycle**. 
 
 ## *NEWS* {#news}
 - **May 2025:** We welcome summer REU student Emily Yoon to the lab! Emily is a rising junior at Williams College, and will be working on developing a new model system for studying the community ecology of denitrification.
@@ -103,15 +103,6 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
 </div>
 
 <div class="photo-container">
-  <img src="/assets/img/nullavatar.jpg" alt="Anja Steinert">
-  <div class="description">
-    <h3>Anja Steinert</h3>
-    Lab Manager<br>
-    BS in Biology, The Ohio State University
-  </div>
-</div>
-
-<div class="photo-container">
   <img src="/assets/img/dcipiti.jpg" alt="Dominic Cipiti">
   <div class="description">
     <h3>Dominic Cipiti</h3>
@@ -130,18 +121,11 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
 </div>
 
 <div class="photo-container">
-  <img src="/assets/img/nullavatar.jpg" alt="Molly Easton">
+  <img src="/assets/img/nullavatar.jpg" alt="Anja Steinert">
   <div class="description">
-    <h3>Molly Easton</h3>
-    Undergraduate Researcher
-  </div>
-</div>
-
-<div class="photo-container">
-  <img src="/assets/img/nullavatar.jpg" alt="Emily Yoon">
-  <div class="description">
-    <h3>Emily Yoon</h3>
-    Undergraduate Researcher, Williams College
+    <h3>Anja Steinert</h3>
+    Lab Manager<br>
+    BS in Biology, The Ohio State University
   </div>
 </div>
 
@@ -154,13 +138,15 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
 </div>
 
 ### Alumni
-Aouss Azzouz (Earlham College→UPenn Medical School), SROP Undergraduate Researcher
+Emily Yoon (Williams College), SROP Undergraduate Researcher (2025)
+Molly Easton, Undergraduate Lab Assistant (2024-2025)
+Aouss Azzouz (Earlham College→UPenn Medical School), SROP Undergraduate Researcher (2024)
 
-## *RESEARCH* {#research}
+<!--- ## *RESEARCH* {#research}
 
 1. **The cost of metabolic functionality in bacterial denitrification:** Textbooks will tell you that organisms obtain energy via denitrification through a series of reactions starting with nitrate and ending with dinitrogen gas; that is, the process is carried out from start to finish by generalists who do it all. When [we look at natural environments](https://doi.org/10.1038/s41564-024-01752-4), we see that denitrification is very much a community phenomenon, where the pathway is often split up amongst different organisms. The overarching goal of this project is to understand the physiological costs of performing single vs. multiple denitrification reactions, and to use this knowledge to explain and predict the community ecology of denitrifying communities in different environmental contexts.
 2. **Life in the slow lane:** Lab studies of microbes typically take place in fast-growth conditions—but organisms in natural environments often grow much more slowly, due to limitations imposed by low nutrient concentrations. The goal of this project to understand physiological and ecological consequences of different environmentally-prevelent forms of nutrient limitation (i.e., P, N, and C limitation) via the development of a high-throughput platform for measuring growth in nutrient-limited conditions.
-3. **Single-cell 'omics of microbial communities:** The fundamental unit of a microbial community is not the population but the single cell—even at the strain-level, there is staggering diversity arising at the genomic and transcriptomic scales, which is essentially papered-over by bulk sequencing measurements. The long term goal of this project is to apply and refine emerging bacterial single cell genomics and transcriptomics approaches (in collaboration with the [Sullivan](https://u.osu.edu/viruslab/) and [Prakash](https://mae.osu.edu/people/prakash.31) labs) to the study of communities, and to develop computational approaches relevant to the unique questions and challenges posed by these measurements in a community context.
+3. **Single-cell 'omics of microbial communities:** The fundamental unit of a microbial community is not the population but the single cell—even at the strain-level, there is staggering diversity arising at the genomic and transcriptomic scales, which is essentially papered-over by bulk sequencing measurements. The long term goal of this project is to apply and refine emerging bacterial single cell genomics and transcriptomics approaches (in collaboration with the [Sullivan](https://u.osu.edu/viruslab/) and [Prakash](https://mae.osu.edu/people/prakash.31) labs) to the study of communities, and to develop computational approaches relevant to the unique questions and challenges posed by these measurements in a community context. -->
 
 ## *PUBLICATIONS* {#pubs}
 
