@@ -3,8 +3,10 @@
 Microbial communities are the [engines that drive the biosphere](https://www.nrel.colostate.edu/assets/nrel_files/projects/ssi/docs/microbiology_articles/falkowski_et_al_2008.pdf), playing critical biochemical functions in ecosystems and hosts, from soils to oceans to the human gut. The Gowda Lab's guiding star is the pursuit of **natural design principles** underlying these functions. Nature "builds" community functions through the interplay of cellular physiology, community assembly, and evolutionary adaptation. This is pretty different from the ways that we as humans traditionally think about designing systems. Our view is that discovering these natural design principles via the integrated study of physiology, ecology, and evolution will teach us how to rationally manipulate and robustly engineer complex microbiomes for the benefit of human health.
 
 The Gowda Lab is an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) and [Biophysics Graduate Program](https://biophysics.osu.edu/) at the Ohio State University who integrate experiments with computation and modeling in the pursuit of natural design principles of [**the nitrogen cycle**](https://en.wikipedia.org/wiki/Nitrogen_cycle). Ongoing projects and areas of interest include:
-- The resource allocation biology of bacterial denitrification: How do constraints on cellular physiology determine fitness, metabolic fluxes, and community metabolism?
-- 
+- The resource allocation biology of bacterial denitrification: How do constraints on cellular physiology (e.g., the need to balance redox, biophysical constraints on proteome concentrations, etc.) determine fitness, metabolic fluxes, and community assembly?
+- Nitrogen cycling in biofilms: How does the physiology of growth in biofilms affect community assembly and function?
+- Nutrient limited growth: Developing a high-throughput platform for characterizing the impacts of growth in nitrogen and phosphorous-limited conditions.
+- Novel techniques for profiling gene expression in consortia, including single-cell transcriptomics.
 
 ## *NEWS* {#news}
 - **May 2025:** We welcome summer REU student Emily Yoon to the lab! Emily is a rising junior at Williams College, and will be working on developing a new model system for studying the community ecology of denitrification.
