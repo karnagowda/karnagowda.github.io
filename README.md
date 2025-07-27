@@ -139,7 +139,9 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
 
 ### Alumni
 Emily Yoon (Williams College), SROP Undergraduate Researcher (2025)
+
 Molly Easton, Undergraduate Lab Assistant (2024-2025)
+
 Aouss Azzouz (Earlham College→UPenn Medical School), SROP Undergraduate Researcher (2024)
 
 <!--- ## *RESEARCH* {#research}
