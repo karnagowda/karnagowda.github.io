@@ -141,6 +141,8 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
   </div>
 </div>
 
+<img src="/assets/img/gowdalab.jpg" alt="Gowda Lab 2025">
+
 ### Alumni
 - Emily Yoon (Williams College), SROP Undergraduate Researcher (2025)
 - Molly Easton, Undergraduate Lab Assistant (2024-2025)
