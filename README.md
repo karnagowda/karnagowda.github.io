@@ -115,7 +115,7 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
   <img src="/assets/img/bguidry.jpg" alt="Bryce Guidry">
   <div class="description">
     <h3>Bryce Guidry</h3>
-    PhD Student, Biophysics<br>
+    PhD Candidate, Biophysics<br>
     BS in Biophysics, Emory University<br>
   </div>
 </div>
