@@ -113,6 +113,14 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
 </div>
 
 <div class="photo-container">
+  <img src="/assets/img/nullavatar.jpg" alt="Ava Galek">
+  <div class="description">
+    <h3>Ava Galek</h3>
+    Undergraduate Research Assistant<br>
+  </div>
+</div>
+
+<div class="photo-container">
   <img src="/assets/img/bguidry.jpg" alt="Bryce Guidry">
   <div class="description">
     <h3>Bryce Guidry</h3>
