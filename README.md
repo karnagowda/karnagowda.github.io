@@ -190,6 +190,10 @@ The Gowda Lab is an interdisciplinary team of researchers in the [Department of 
   </div>
 </div>
 
+### 2025
+
+Urvoy, M., Howard-Varona, C., Owusu-Ansah, C., Stai, A. J., Bouranis, J. A., Burris, M., Solonenko, N., Hettich, R. L., Holmfeldt, K., Tfaily, M., Gowda, K., Sullivan & M. B. (2025). Phage resistance mutations in a marine bacterium impact biogeochemically relevant cellular processes. *Nature Microbiology*. doi: [10.1038/s41564-025-02202-5](https://doi.org/10.1038/s41564-025-02202-5)
+
 ### 2024
 
 Crocker, K., Lee, K. K., Chakraverti-Wuerthwein, M., Li, Z., Tikhonov, M., Mani, M., Gowda, K., & Kuehn, S. (2024). Environmentally dependent interactions shape patterns in gene content across natural microbiomes. *Nature Microbiology*, 9(8), 2022–2037. doi: [10.1038/s41564-024-01752-4](https://doi.org/10.1038/s41564-024-01752-4)
