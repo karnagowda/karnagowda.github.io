@@ -1,6 +1,6 @@
 <div style="padding-top: 55px;"></div>
-## *MISSION*
 
+## *MISSION*
 Microbial communities are the [engines that drive the biosphere](https://www.nrel.colostate.edu/assets/nrel_files/projects/ssi/docs/microbiology_articles/falkowski_et_al_2008.pdf), playing critical biochemical roles in ecosystems and hosts, from soils to oceans to the human gut. What are the rules governing how they assemble and function? 
 
 The Gowda Lab is an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) and [Biophysics Graduate Program](https://biophysics.osu.edu/) at the Ohio State University who take a systems biology approach to elucidating how physiology, ecology, and evolution "build" [**nitrogen cycling**](https://en.wikipedia.org/wiki/Nitrogen_cycle) processes. Ongoing projects and areas of interest include the resource allocation biology of bacterial denitrification, nitrogen cycling in biofilms, nutrient limited growth, and novel techniques for profiling gene expression in consortia.
