@@ -1,4 +1,5 @@
 <div style="padding-top: 55px;"></div>
+## *MISSION*
 
 Microbial communities are the [engines that drive the biosphere](https://www.nrel.colostate.edu/assets/nrel_files/projects/ssi/docs/microbiology_articles/falkowski_et_al_2008.pdf), playing critical biochemical roles in ecosystems and hosts, from soils to oceans to the human gut. What are the rules governing how they assemble and function? 
 
