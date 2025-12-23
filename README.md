@@ -131,6 +131,14 @@ The Gowda Lab studies how [microbial nitrogen cycling](https://en.wikipedia.org/
 </div>
 
 <div class="photo-container">
+  <img src="/assets/img/nullavatar.jpg" alt="Aayushi Shah">
+  <div class="description">
+    <h3>Aayushi Shah</h3>
+    High School Intern<br>
+  </div>
+</div>
+
+<div class="photo-container">
   <img src="/assets/img/nullavatar.jpg" alt="Anja Steinert">
   <div class="description">
     <h3>Anja Steinert</h3>
