@@ -140,7 +140,7 @@ The Gowda Lab studies how [microbial nitrogen cycling](https://en.wikipedia.org/
 </div>
 
 <div class="photo-container">
-  <img src="/assets/img/aschweiters.jpg" alt="Andrew Schweiters">
+  <img src="/assets/img/aschwieters.jpg" alt="Andrew Schwieters">
   <div class="description">
     <h3>Andrew Schwieters</h3>
     Postdoctoral Researcher<br>
