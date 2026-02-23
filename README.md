@@ -114,6 +114,15 @@ The Gowda Lab studies how [microbial nitrogen cycling](https://en.wikipedia.org/
 </div>
 
 <div class="photo-container">
+  <img src="/assets/img/afranklin.jpg" alt="Arthur Franklin">
+  <div class="description">
+    <h3>Arthur Franklin</h3>
+    PhD Student, Microbiology<br>
+    BS in Biology, The Ohio State University<br>
+  </div>
+</div>
+
+<div class="photo-container">
   <img src="/assets/img/nullavatar.jpg" alt="Ava Galek">
   <div class="description">
     <h3>Ava Galek</h3>
@@ -127,6 +136,16 @@ The Gowda Lab studies how [microbial nitrogen cycling](https://en.wikipedia.org/
     <h3>Bryce Guidry</h3>
     PhD Candidate, Biophysics<br>
     BS in Biophysics, Emory University<br>
+  </div>
+</div>
+
+<div class="photo-container">
+  <img src="/assets/img/aschweiters.jpg" alt="Andrew Schweiters">
+  <div class="description">
+    <h3>Andrew Schwieters</h3>
+    Postdoctoral Researcher<br>
+    BS/BA in Biology and Chemistry, University of Minnesota, Morris<br>
+    PhD in Microbiology, The Ohio State University<br>
   </div>
 </div>
 
