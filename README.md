@@ -140,6 +140,15 @@ The Gowda Lab studies how [microbial nitrogen cycling](https://en.wikipedia.org/
 </div>
 
 <div class="photo-container">
+  <img src="/assets/img/nullavatar.jpg" alt="Anja Howard">
+  <div class="description">
+    <h3>Anja Howard</h3>
+    Lab Manager<br>
+    BS in Biology, The Ohio State University
+  </div>
+</div>
+
+<div class="photo-container">
   <img src="/assets/img/aschwieters.jpg" alt="Andrew Schwieters">
   <div class="description">
     <h3>Andrew Schwieters</h3>
@@ -154,15 +163,6 @@ The Gowda Lab studies how [microbial nitrogen cycling](https://en.wikipedia.org/
   <div class="description">
     <h3>Aayushi Shah</h3>
     High School Intern<br>
-  </div>
-</div>
-
-<div class="photo-container">
-  <img src="/assets/img/nullavatar.jpg" alt="Anja Steinert">
-  <div class="description">
-    <h3>Anja Steinert</h3>
-    Lab Manager<br>
-    BS in Biology, The Ohio State University
   </div>
 </div>
 
