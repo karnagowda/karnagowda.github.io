@@ -140,7 +140,7 @@ The Gowda Lab studies how [microbial nitrogen cycling](https://en.wikipedia.org/
 </div>
 
 <div class="photo-container">
-  <img src="/assets/img/nullavatar.jpg" alt="Anja Howard">
+  <img src="/assets/img/nullavatar.jpg" alt="Anja Howard ">
   <div class="description">
     <h3>Anja Howard</h3>
     Lab Manager<br>
