@@ -9,7 +9,7 @@ The Gowda Lab studies how [microbial nitrogen cycling](https://en.wikipedia.org/
 - **March 2026:** We welcome Arthur Franklin who will join the lab as a Microbiology PhD student. Arthur will work on microbial interactions in biofilms.
 - **Jan 2026:** We are super excited to welcome Andrew Schwieters to the lab as a postdoctoral researcher. Andrew will develop new synthetic biology tools for studying bacterial denitrification.
 - **Aug 2025:** Big congrats to Bryce Guidry for successfully completing his PhD candidacy examinations in the Biophysics Graduate Program.
-- **May 2025:** We welcome summer REU student Emily Yoon to the lab. Emily is a rising junior at Williams College, and will be working on developing a new model system for studying the community ecology of denitrification.
+- **May 2025:** We welcome summer REU student Emily Yoon to the lab. Emily is a rising junior at Williams College, and will be working on enrichhing denitrifying biofilms.
 - **February 2025:** We are thrilled to have Dominic Cipiti joining the lab as a Microbiology PhD student. He will take a resource-allocation perspective to the study of denitrification physiology.
 - **January 2025:** We welcome Bryce Guidry and Anja Steinert to the lab. Bryce joins as a PhD student through the [Biophysics Graduate Program](https://biophysics.osu.edu/) and will be working on single-cell approaches for studying bacteria. Anja will be taking over as lab manager.
 - **July 2024:** Our paper on how interactions shape denitrifying communities in the soil microbiome is now out in [Nature Microbiology](https://doi.org/10.1038/s41564-024-01752-4).
