@@ -2,70 +2,72 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Pseudomonas N-cycle Genes (HQ genomes only) — GTDB R214</title>
+<title>Pseudomonas N-cycle Genes (HQ, light) — GTDB R214</title>
 <style>
   *{margin:0;padding:0;box-sizing:border-box}
-  body{background:#080c14;color:#c0c8d4;font-family:'Courier New',monospace;overflow:hidden;height:100vh}
+  body{background:#f7f8fa;color:#000;font-family:'Courier New',monospace;overflow:hidden;height:100vh}
   canvas{display:block}
   #wrap{width:100vw;height:100vh;position:relative}
 
   .panel{
-    position:absolute;background:rgba(8,12,20,0.94);
-    border:1px solid #1e2a3a;border-radius:6px;
+    position:absolute;background:rgba(255,255,255,0.96);
+    border:1px solid #c5ccd8;border-radius:6px;
+    box-shadow:0 1px 3px rgba(0,0,0,0.04);
     padding:12px 15px;font-size:11px;z-index:10;
   }
 
   #legend{top:12px;left:12px;line-height:1.7}
-  #legend h3{color:#6a7d96;font-size:11px;margin-bottom:5px;letter-spacing:1.2px;text-transform:uppercase}
+  #legend h3{color:#000;font-size:11px;margin-bottom:5px;letter-spacing:1.2px;text-transform:uppercase}
   .gene-row{display:flex;align-items:center;gap:6px;cursor:pointer;padding:1px 0}
   .gene-row:hover{opacity:0.85}
-  .gene-dot{width:9px;height:9px;border-radius:50%;flex-shrink:0}
-  .gene-row input{accent-color:#4a6a8a;margin:0}
+  .gene-dot{width:9px;height:9px;border-radius:50%;flex-shrink:0;border:1px solid rgba(0,0,0,0.12)}
+  .gene-row input{accent-color:#3a5a8a;margin:0}
   .gene-label{font-weight:bold}
-  .gene-desc{color:#556a80;font-size:10px}
+  .gene-desc{color:#000;font-size:10px}
 
   #view-panel{bottom:12px;right:12px}
   #view-panel button{
-    background:rgba(8,12,20,0.9);border:1px solid #1e2a3a;border-radius:3px;
-    color:#7a8da8;padding:4px 10px;cursor:pointer;font-family:inherit;font-size:10.5px;margin:2px;
+    background:rgba(255,255,255,0.92);border:1px solid #c5ccd8;border-radius:3px;
+    color:#000;padding:4px 10px;cursor:pointer;font-family:inherit;font-size:10.5px;margin:2px;
   }
-  #view-panel button:hover{border-color:#4a6a8a;color:#aac}
+  #view-panel button:hover{border-color:#7a90b0;background:rgba(235,240,248,0.95)}
   .view-row{display:flex;align-items:center;gap:6px;margin-top:4px}
-  .view-row input{accent-color:#4a6a8a;margin:0}
-  .view-row label{font-size:10.5px;cursor:pointer}
+  .view-row input{accent-color:#3a5a8a;margin:0}
+  .view-row label{font-size:10.5px;cursor:pointer;color:#000}
 
   #search-panel{top:12px;right:12px;width:260px}
-  #search-panel h3{color:#6a7d96;font-size:11px;margin-bottom:6px;letter-spacing:1.2px;text-transform:uppercase}
+  #search-panel h3{color:#000;font-size:11px;margin-bottom:6px;letter-spacing:1.2px;text-transform:uppercase}
   #searchBox{
-    width:100%;background:rgba(4,8,14,0.9);border:1px solid #2a3a50;border-radius:3px;
-    color:#c0c8d4;padding:6px 9px;font-family:inherit;font-size:11px;outline:none;
+    width:100%;background:#fff;border:1px solid #c5ccd8;border-radius:3px;
+    color:#000;padding:6px 9px;font-family:inherit;font-size:11px;outline:none;
   }
-  #searchBox:focus{border-color:#5a7a9a}
-  #searchBox::placeholder{color:#3a4a5e}
-  #searchStatus{font-size:10px;color:#556;margin-top:5px;min-height:13px}
-  #searchStatus.match{color:#7ab09a}
-  #searchStatus.nomatch{color:#b06070}
-  #landmarks{margin-top:9px;border-top:1px solid #1a2535;padding-top:8px}
-  .landmark-label{color:#6a7d96;font-size:10px;letter-spacing:1px;text-transform:uppercase;margin-bottom:5px}
+  #searchBox:focus{border-color:#5a7a9a;box-shadow:0 0 0 2px rgba(90,122,154,0.15)}
+  #searchBox::placeholder{color:#8890a0}
+  #searchStatus{font-size:10px;color:#000;margin-top:5px;min-height:13px}
+  #searchStatus.match{color:#1e5a3a}
+  #searchStatus.nomatch{color:#8a1828}
+  #landmarks{margin-top:9px;border-top:1px solid #d8dde5;padding-top:8px}
+  .landmark-label{color:#000;font-size:10px;letter-spacing:1px;text-transform:uppercase;margin-bottom:5px}
   .landmark-chips{display:flex;flex-wrap:wrap;gap:4px}
   .chip{
-    background:rgba(20,30,45,0.85);border:1px solid #2a3a50;border-radius:10px;
-    color:#9ab0cc;padding:3px 9px;cursor:pointer;font-family:inherit;font-size:10px;
+    background:#fff;border:1px solid #c5ccd8;border-radius:10px;
+    color:#000;padding:3px 9px;cursor:pointer;font-family:inherit;font-size:10px;
     font-style:italic;transition:all 0.15s;
   }
-  .chip:hover{border-color:#5a7a9a;color:#c8dae8;background:rgba(30,45,65,0.9)}
+  .chip:hover{border-color:#5a7a9a;background:#eef2f8}
 
   #tooltip{
-    position:absolute;display:none;background:rgba(8,12,20,0.96);
-    border:1px solid #3a4a60;border-radius:4px;padding:8px 12px;
-    font-size:10.5px;pointer-events:none;z-index:20;max-width:300px;line-height:1.6;
+    position:absolute;display:none;background:rgba(255,255,255,0.98);
+    border:1px solid #aab4c0;border-radius:4px;padding:8px 12px;
+    box-shadow:0 2px 8px rgba(0,0,0,0.08);
+    font-size:10.5px;pointer-events:none;z-index:20;max-width:300px;line-height:1.6;color:#000;
   }
-  .tt-genus{color:#9ab0cc;font-style:italic}
-  .tt-gid{color:#445;font-size:9.5px;font-family:monospace}
-  .tt-qual{color:#556;font-size:9.5px;margin-top:2px}
+  .tt-genus{color:#000;font-style:italic;font-weight:bold}
+  .tt-gid{color:#000;font-size:9.5px;font-family:monospace}
+  .tt-qual{color:#000;font-size:9.5px;margin-top:2px}
 
-  #info{position:absolute;bottom:12px;left:12px;font-size:9.5px;color:#334;z-index:10}
-  .legend-sub{margin-top:6px;border-top:1px solid #1a2535;padding-top:6px;color:#3a4a5a;font-size:9.5px;line-height:1.5}
+  #info{position:absolute;bottom:12px;left:12px;font-size:9.5px;color:#000;z-index:10}
+  .legend-sub{margin-top:6px;border-top:1px solid #d8dde5;padding-top:6px;color:#000;font-size:9.5px;line-height:1.5}
 </style>
 </head>
 <body>
@@ -75,8 +77,8 @@
   <h3>Genes</h3>
   <div id="gene-toggles"></div>
   <div class="legend-sub">
-    782 genomes<br>
-    GTDB R214<br>
+    782 genomes · no collapsing<br>
+    Pseudomonas MRCA subtree<br>
     Complete/high + near complete only
   </div>
 </div>
@@ -173,7 +175,7 @@ function draw(){
     ctx.lineWidth=sc*0.03;
     for(let i=0;i<genusLabels.length;i++){
       const gl=genusLabels[i],hs=gl.span/2;
-      ctx.strokeStyle=i%2?'rgba(25,35,50,0.5)':'rgba(35,45,60,0.5)';
+      ctx.strokeStyle=i%2?'rgba(190,200,215,0.4)':'rgba(210,220,232,0.4)';
       ctx.beginPath();ctx.arc(cx+ox,cy+oy,aR,gl.mid-hs,gl.mid+hs);ctx.stroke();
     }
     ctx.font='10px Courier New';ctx.textBaseline='middle';
@@ -183,15 +185,15 @@ function draw(){
       let rot=gl.mid,flip=false;
       if(gl.mid>Math.PI/2&&gl.mid<3*Math.PI/2){rot+=Math.PI;flip=true}
       ctx.rotate(rot);
-      ctx.fillStyle='rgba(150,170,195,0.75)';
+      ctx.fillStyle='rgba(0,0,0,0.9)';
       ctx.textAlign=flip?'right':'left';
       if(gl.span*lR>10)ctx.fillText(gl.name+(gl.n>1?` (${gl.n})`:''),0,0);
       ctx.restore();
     }
   }
 
-  ctx.strokeStyle='rgba(200,210,225,0.35)';
-  ctx.lineWidth=0.6;
+  ctx.strokeStyle='rgba(60,75,95,0.55)';
+  ctx.lineWidth=0.7;
   ctx.beginPath();
   for(let nid=0;nid<D.N;nid++){
     const pid=D.np[nid];
@@ -204,8 +206,8 @@ function draw(){
   }
   ctx.stroke();
 
-  ctx.strokeStyle='rgba(200,210,225,0.30)';
-  ctx.lineWidth=0.6;
+  ctx.strokeStyle='rgba(60,75,95,0.45)';
+  ctx.lineWidth=0.7;
   ctx.beginPath();
   for(let nid=0;nid<D.N;nid++){
     if(D.nl[nid])continue;
@@ -255,7 +257,9 @@ function draw(){
   }
 
   // Render each gene color in one batched path
-  ctx.globalAlpha=0.9;
+  ctx.globalAlpha=1;
+  ctx.lineWidth=0.8;
+  ctx.strokeStyle='rgba(30,40,55,0.55)';
   for(let gi=0;gi<7;gi++){
     const arr=dotsByGene[gi];
     if(!arr.length)continue;
@@ -266,14 +270,14 @@ function draw(){
       ctx.arc(arr[i],arr[i+1],bsz,0,6.283);
     }
     ctx.fill();
+    ctx.stroke();
   }
-  ctx.globalAlpha=1;
 
   // Search highlights: pulsing ring around matched leaves
   if(searchMatches.length){
-    const pulse=0.6+0.4*Math.sin(performance.now()/300);
-    ctx.strokeStyle=`rgba(255,220,120,${pulse})`;
-    ctx.lineWidth=2;
+    const pulse=0.7+0.3*Math.sin(performance.now()/300);
+    ctx.strokeStyle=`rgba(220,80,50,${pulse})`;
+    ctx.lineWidth=2.5;
     ctx.beginPath();
     for(const nid of searchMatches){
       const a=D.na[nid],r=D.nr[nid];
