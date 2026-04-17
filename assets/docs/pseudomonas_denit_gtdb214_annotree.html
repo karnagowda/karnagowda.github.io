@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Pseudomonas denitrification genes - GTDB/Annotree R214</title>
+<title>Pseudomonas denitrification genotype explorer</title>
 <style>
   :root{
     --bg:#f7f8fa;--fg:#000;
@@ -90,6 +90,15 @@
 
   #info{position:absolute;bottom:12px;left:12px;font-size:9.5px;color:var(--fg);opacity:0.5;z-index:10}
   .legend-sub{margin-top:6px;border-top:1px solid var(--divider);padding-top:6px;color:var(--fg);font-size:9.5px;line-height:1.5;opacity:0.6}
+  #modal-overlay{display:none;position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(0,0,0,0.5);z-index:100;justify-content:center;align-items:center}
+  #modal-overlay.open{display:flex}
+  #modal{background:var(--panel-bg);border:1px solid var(--panel-border);border-radius:8px;padding:28px 32px;max-width:600px;width:90vw;max-height:80vh;overflow-y:auto;color:var(--fg);font-size:12px;line-height:1.75;position:relative;box-shadow:0 8px 32px rgba(0,0,0,0.2)}
+  #modal h2{font-size:14px;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:14px;color:var(--fg)}
+  #modal h3{font-size:12px;margin-top:16px;margin-bottom:4px;color:var(--fg);letter-spacing:0.8px}
+  #modal p{margin:6px 0}
+  #modal .close-btn{position:absolute;top:12px;right:16px;background:none;border:none;color:var(--fg);font-size:20px;cursor:pointer;opacity:0.5;font-family:inherit}
+  #modal .close-btn:hover{opacity:1}
+  #modal em{font-style:italic;opacity:0.7}
 </style>
 </head>
 <body>
@@ -124,6 +133,7 @@
 <div id="view-panel" class="panel">
   <button onclick="resetView()">Reset view</button>
   <button onclick="toggleTheme()" id="themeBtn">Dark mode</button>
+  <button onclick="document.getElementById('modal-overlay').classList.add('open')">Methods</button>
   <div class="view-row">
     <input type="checkbox" id="chkLabels" checked onchange="draw()">
     <label for="chkLabels">Genus labels</label>
@@ -393,6 +403,7 @@ cv.addEventListener('touchmove',e=>{e.preventDefault();
 cv.addEventListener('touchend',()=>drag=false);
 
 onresize=()=>{resize();resetView()};
+document.addEventListener('keydown',e=>{if(e.key==='Escape')document.getElementById('modal-overlay').classList.remove('open')});
 resize();resetView();
 
 // --- Search ---
@@ -495,5 +506,26 @@ function pulseLoop(){
   }
 }
 </script>
+<div id="modal-overlay" onclick="if(event.target===this)this.classList.remove('open')">
+<div id="modal">
+<button class="close-btn" onclick="document.getElementById('modal-overlay').classList.remove('open')">×</button>
+<h2>Methods</h2>
+
+<h3>Data Sources</h3>
+<p>Genome phylogeny and taxonomy from the Genome Taxonomy Database (GTDB) release R214. The reference tree (bac120_r214.tree) comprises 80,789 bacterial genomes placed on a 120-marker concatenated protein phylogeny. The subtree shown here was extracted as the most recent common ancestor (MRCA) of all genomes assigned to Pseudomonas <em>sensu lato</em> in GTDB, encompassing Pseudomonas, Pseudomonas_B, Pseudomonas_E, Pseudomonas_F, Pseudomonas_H, Pseudomonas_K, Pseudomonas_M, Stutzerimonas, and Azotobacter (782 genomes after quality filtering). Nitrogen cycle gene annotations (narG, napA, nirS, nirK, norB, nosZ) were obtained from AnnoTree, which assigns gene presence/absence using hidden Markov model (HMM) searches against KEGG Orthology profiles.</p>
+
+<h3>Genome Quality Filtering</h3>
+<p>Only genomes classified as Complete/High Quality (≥95% completeness, ≤5% contamination) or Near Complete (90–95% completeness, ≤5% contamination) are included. No nosZ clade II or nrfA were identified among the pseudomonads.</p>
+
+<h3>Nitric Oxide Reductase (Nor) Subtype Classification</h3>
+<p>AnnoTree reports a single norB annotation. Sequences were classified as cytochrome <em>c</em>-oxidizing (cNor) or quinol-oxidizing (qNor) based on protein length. qNor is a fusion of NorB and NorC into a single polypeptide (~765 aa), whereas cNor NorB alone is ~455 aa. A histogram of all 11,399 norB sequence lengths revealed a bimodal distribution with a clear valley at ~635 aa, which was used as the classification cutoff. Only 83 sequences (0.7%) fell within ±30 aa of the cutoff.</p>
+
+<h3>Nitrous Oxide Reductase (NosZ) Clade Classification</h3>
+<p>NosZ sequences were classified as Clade I (typical) or Clade II (atypical) by scoring all 7,062 sequences against two profile HMMs using HMMER v3.4: the FunGene nosZ profile (Clade I, 638 positions) and the FunGene nosZ_a2 profile (Clade II, 656 positions). Each sequence was assigned to whichever HMM yielded the higher full-sequence bit score. Only 8 sequences (0.1%) had a score difference below 50 bits. All nosZ in pseudomonads was Clade I.</p>
+
+<p><em>Visualization built with HTML5 Canvas by Claude Opus 4.6. All rendering is client-side; no server required.</em></p>
+<p><em>Data collected and processed by Aayushi Shah and Karna Gowda (2026).</em></p>
+</div>
+</div>
 </body>
 </html>
