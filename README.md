@@ -1,9 +1,11 @@
 <div style="padding-top: 55px;"></div>
 
 ## *MISSION*
-Microbial communities drive essential chemistry across ecosystems and hosts, from soils to oceans to the human body. But microbes rarely work alone; they divide metabolic labor, with different organisms specializing in different steps of biochemical pathways. Why does this division of labor happen, and what rules govern it?
+Microbes catalyze a huge diversity of chemical reactions that are important to human health and essential to the persistence of life on this planet. But no one microbe can do it all. Our lab is interested in how limitations placed on cells by physics, chemistry, and biology influence **what** microbes can do, **how fast** they can do it, and how these limitations **affect the organisms around them**.
 
-The Gowda Lab studies these questions using bacterial denitrification, a form of anaerobic respiration found throughout nature and the human body. Denitrification sustains pathogens in chronic infections, fuels nitric oxide signaling via oral bacteria, and shapes the gut microbiome during inflammation. Curiously, most denitrifying bacteria in nature perform only part of the pathway, even though using the complete pathway can yield more energy. We investigate why by asking a) how do cells allocate scarce internal resources (e.g., carbon, electrons, proteins) among competing demands, and b) how do these allocation decisions shape which metabolic strategies succeed? By uncovering the cellular logic behind metabolic tradeoffs, we aim to ultimately build a mechanistic understanding for how microbial communities assemble and function. We are an interdisciplinary team of researchers in the [Department of Microbiology](https://microbiology.osu.edu/) and [Biophysics Graduate Program](https://biophysics.osu.edu/) at the Ohio State University.
+Many of these important reactions involve nitrogen oxides. We study **denitrification**, the stepwise respiration of nitrate to dinitrogen gas, which plays a central role in *Pseudomonas aeruginosa* pathogenesis, gut dysbiosis, and environmental nitrogen cycling. The pathway has four sequential reactions, but [most organisms only carry out some of them](https://www.gowdalab.org/assets/docs/denit_gtdb214_annotree.html) — this is puzzling, given that running the complete pathway extracts more energy per nitrate. We think the answer lies in the tradeoffs cells face when balancing competing demands given finite resources (i.e., proteome space, reducing equivalents, carbon, and the capacity to respond to stress).
+
+We focus experimentally on pseudomonads, which are genetically tractable and exhibit enormous natural diversity in [which denitrification steps they encode](https://www.gowdalab.org/assets/docs/pseudomonas_denit_gtdb214_annotree.html) — letting us study both what cells can do and what evolution has chosen. We take a systems biology perspective to connect these intracellular constraints to growth, metabolic flux, and the ecology of denitrifying communities.
 
 ## *NEWS* {#news}
 - **March 2026:** We welcome Arthur Franklin who will join the lab as a Microbiology PhD student. Arthur will work on microbial interactions in biofilms.
@@ -125,14 +127,6 @@ The Gowda Lab studies these questions using bacterial denitrification, a form of
 </div>
 
 <div class="photo-container">
-  <img src="/assets/img/nullavatar.jpg" alt="Ava Galek">
-  <div class="description">
-    <h3>Ava Galek</h3>
-    Undergraduate Research Assistant<br>
-  </div>
-</div>
-
-<div class="photo-container">
   <img src="/assets/img/bguidry.jpg" alt="Bryce Guidry">
   <div class="description">
     <h3>Bryce Guidry</h3>
@@ -177,6 +171,7 @@ The Gowda Lab studies these questions using bacterial denitrification, a form of
 </div>
 
 ### Alumni
+- Ava Galek, Undergraduate Lab Assistant (2025-2026)
 - Emily Yoon (Williams College), SROP Researcher (2025)
 - Molly Easton, Undergraduate Lab Assistant (2024-2025)
 - Aouss Azzouz (Earlham College→UPenn Medical School), SROP Researcher (2024)
