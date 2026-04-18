@@ -183,9 +183,7 @@ We focus experimentally on **pseudomonads**, which are genetically tractable and
 3. **Single-cell 'omics of microbial communities:** The fundamental unit of a microbial community is not the population but the single cell—even at the strain-level, there is staggering diversity arising at the genomic and transcriptomic scales, which is essentially papered-over by bulk sequencing measurements. The long term goal of this project is to apply and refine emerging bacterial single cell genomics and transcriptomics approaches (in collaboration with the [Sullivan](https://u.osu.edu/viruslab/) and [Prakash](https://mae.osu.edu/people/prakash.31) labs) to the study of communities, and to develop computational approaches relevant to the unique questions and challenges posed by these measurements in a community context. -->
 
 ## *PUBLICATIONS* {#pubs}
-
-### Recent highlights
-
+<!-- ### Recent highlights
 <div class="photo-container">
   <img src="/assets/img/crocker_fig.svg" alt="">
   <div class="description">
@@ -210,8 +208,7 @@ We focus experimentally on **pseudomonads**, which are genetically tractable and
     <a href="https://doi.org/10.1016/j.cub.2022.02.002"><em>Dispatch by Avi Flamholz and Dianne Newman</em></a><br>
     In natural microbial communities, measuring gene content is one of the easiest things to do, while measuring metabolic process rates is one of the hardest. But what if we could predict the latter from the former? In this paper, we establish a proof of concept that this is possible using bacterial denitrification as a model system. Through experimental measurements of synthetic communities composed of diverse isolates, we use statistical learning to map genotypes to phenotypes, and consumer-resource modeling to map phenotypes to community metabolic dynamics.
   </div>
-</div>
-
+</div> -->
 ### 2025
 
 Urvoy, M., Howard-Varona, C., Owusu-Ansah, C., Stai, A. J., Bouranis, J. A., Burris, M., Solonenko, N., Hettich, R. L., Holmfeldt, K., Tfaily, M., Gowda, K., Sullivan & M. B. (2025). Phage resistance mutations in a marine bacterium impact biogeochemically relevant cellular processes. *Nature Microbiology*, 11, 195–210. doi: [10.1038/s41564-025-02202-5](https://doi.org/10.1038/s41564-025-02202-5)
