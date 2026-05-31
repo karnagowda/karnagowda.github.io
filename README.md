@@ -211,7 +211,7 @@ We focus experimentally on **pseudomonads**, which are genetically tractable and
 </div> -->
 ### 2025
 
-Urvoy, M., Howard-Varona, C., Owusu-Ansah, C., Stai, A. J., Bouranis, J. A., Burris, M., Solonenko, N., Hettich, R. L., Holmfeldt, K., Tfaily, M., Gowda, K., Sullivan & M. B. (2025). Phage resistance mutations in a marine bacterium impact biogeochemically relevant cellular processes. *Nature Microbiology*, 11, 195–210. doi: [10.1038/s41564-025-02202-5](https://doi.org/10.1038/s41564-025-02202-5)
+Urvoy, M., Howard-Varona, C., Owusu-Ansah, C., Stai, A. J., Bouranis, J. A., Burris, M., Solonenko, N., Hettich, R. L., Holmfeldt, K., Tfaily, M., Gowda, K., & Sullivan, M. B. (2025). Phage resistance mutations in a marine bacterium impact biogeochemically relevant cellular processes. *Nature Microbiology*, 11, 195–210. doi: [10.1038/s41564-025-02202-5](https://doi.org/10.1038/s41564-025-02202-5)
 
 ### 2024
 
