@@ -155,14 +155,6 @@ We focus experimentally on **pseudomonads**, which, in addition to being relevan
 </div>
 
 <div class="photo-container">
-  <img src="/assets/img/nullavatar.jpg" alt="Aayushi Shah">
-  <div class="description">
-    <h3>Aayushi Shah</h3>
-    High School Intern<br>
-  </div>
-</div>
-
-<div class="photo-container">
   <img src="/assets/img/kuro.jpg" alt="Kuromatsu">
   <div class="description">
     <h3>Kuromatsu</h3>
@@ -171,6 +163,7 @@ We focus experimentally on **pseudomonads**, which, in addition to being relevan
 </div>
 
 ### Alumni
+- Aayushi Shah, High School Intern→UT Austin (2025-2026)
 - Ava Galek, Undergraduate Lab Assistant (2025-2026)
 - Emily Yoon (Williams College), SROP Researcher (2025)
 - Molly Easton, Undergraduate Lab Assistant (2024-2025)
