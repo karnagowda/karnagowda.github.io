@@ -163,11 +163,11 @@ We focus experimentally on **pseudomonads**, which, in addition to being relevan
 </div>
 
 ### Alumni
-- Aayushi Shah, High School Intern, 2025-2026. Currently at UT Austin.
-- Ava Galek, Undergraduate Lab Assistant, 2025-2026
-- Emily Yoon, SROP Researcher, 2025. Currently at Williams College
-- Molly Easton, Undergraduate Lab Assistant, 2024-2025
-- Aouss Azzouz, SROP Researcher, 2024. Currently at UPenn Medical School
+- Aayushi Shah, High School Intern (2025-2026). Currently at UT Austin
+- Ava Galek, Undergraduate Lab Assistant (2025-2026)
+- Emily Yoon, SROP Researcher (2025). Currently at Williams College
+- Molly Easton, Undergraduate Lab Assistant (2024-2025)
+- Aouss Azzouz, SROP Researcher (2024). Currently at UPenn Medical School
 
 <!--- ## *RESEARCH* {#research}
 
