@@ -145,6 +145,14 @@ We focus experimentally on **pseudomonads**, which, in addition to being relevan
 </div>
 
 <div class="photo-container">
+  <img src="/assets/img/nullavatar.jpg" alt="Abby Ralph">
+  <div class="description">
+    <h3>Abby Ralph</h3>
+    Undergraduate Research Assistant<br>
+  </div>
+</div>
+
+<div class="photo-container">
   <img src="/assets/img/aschwieters.jpg" alt="Andrew Schwieters">
   <div class="description">
     <h3>Andrew Schwieters</h3>
