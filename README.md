@@ -112,7 +112,7 @@ We focus experimentally on **pseudomonads**, which, in addition to being relevan
   <img src="/assets/img/dcipiti.jpg" alt="Dominic Cipiti">
   <div class="description">
     <h3>Dominic Cipiti</h3>
-    PhD Student, Microbiology<br>
+    PhD Candidate, Microbiology<br>
     BS in Biology, Baldwin Wallace University<br>
   </div>
 </div>
