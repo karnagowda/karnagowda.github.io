@@ -8,6 +8,7 @@ Many of these important microbial reactions involve nitrogen. We specifically st
 We focus experimentally on **pseudomonads**, which, in addition to being relevant to human health and industry, are genetically tractable and exhibit enormous natural diversity in [which denitrification steps they can do](https://www.gowdalab.org/assets/docs/pseudomonas_denit_gtdb214_annotree.html). We take a **systems biology** perspective to connect intracellular tradeoffs to growth, metabolic flux, and the ecology of denitrifying communities.
 
 ## *NEWS* {#news}
+- **Nov 2026:** Congrats to Dominic Cipiti for completing his Microbiology PhD Candidacy exam!
 - **March 2026:** We welcome Arthur Franklin who will join the lab as a Microbiology PhD student. Arthur will work on microbial interactions in biofilms.
 - **Jan 2026:** We are super excited to welcome Andrew Schwieters to the lab as a postdoctoral researcher. Andrew will develop new synthetic biology tools for studying bacterial denitrification.
 - **Aug 2025:** Big congrats to Bryce Guidry for successfully completing his PhD candidacy examinations in the Biophysics Graduate Program.
